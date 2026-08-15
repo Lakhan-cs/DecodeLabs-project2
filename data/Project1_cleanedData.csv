@@ -1,0 +1,1201 @@
+Date,Product,Quantity,UnitPrice,PaymentMethod,OrderStatus,ItemsInCart,CouponCode,ReferralSource,TotalPrice,CouponSave10,CouponWinter15,CouponFreeship,RevenueGenrated
+01-01-2023,Monitor,1,410.6,Online,Cancelled,2,WINTER15,Referral,410.6,0.0,61.59,0.0,0.0
+01-01-2023,Monitor,1,318.81,Debit Card,Pending,3,WINTER15,Email,318.81,0.0,47.82149999999999,0.0,0.0
+01-01-2023,Chair,2,645.85,Online,Shipped,5,WINTER15,Referral,1291.7,0.0,193.755,0.0,0.0
+01-01-2024,Printer,2,40.23,Credit Card,Cancelled,4,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+01-01-2024,Chair,3,236.5,Online,Delivered,8,FREESHIP,Email,709.5,0.0,0.0,709.5,0.0
+01-01-2025,Printer,3,412.53,Online,Pending,6,WINTER15,Google,1237.59,0.0,185.6385,0.0,0.0
+01-02-2024,Chair,5,64.5,Credit Card,Pending,8,WINTER15,Instagram,322.5,0.0,48.375,0.0,0.0
+01-03-2024,Tablet,2,657.48,Online,Shipped,5,SAVE10,Referral,1314.96,131.496,0.0,0.0,0.0
+01-03-2024,Monitor,1,158.68,Credit Card,Returned,6,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+01-03-2025,Desk,1,87.06,Credit Card,Shipped,4,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+01-03-2025,Chair,3,501.82,Gift Card,Cancelled,4,FREESHIP,Email,1505.46,0.0,0.0,1505.46,0.0
+01-04-2023,Monitor,1,183.18,Debit Card,Cancelled,6,SAVE10,Email,183.18,18.318,0.0,0.0,0.0
+01-04-2025,Phone,2,297.71,Online,Shipped,7,SAVE10,Referral,595.42,59.542,0.0,0.0,0.0
+01-05-2023,Monitor,1,677.48,Online,Delivered,1,WINTER15,Facebook,677.48,0.0,101.62200000000001,0.0,575.858
+01-05-2023,Monitor,3,271.02,Credit Card,Cancelled,6,SAVE10,Google,813.06,81.306,0.0,0.0,0.0
+01-05-2023,Tablet,5,536.72,Cash,Delivered,10,SAVE10,Email,2332.082,233.2082,0.0,0.0,2098.8738
+01-06-2023,Desk,2,330.69,Online,Cancelled,5,SAVE10,Google,661.38,66.138,0.0,0.0,0.0
+01-06-2024,Phone,2,232.83,Gift Card,Delivered,7,SAVE10,Instagram,465.66,46.566,0.0,0.0,419.09400000000005
+01-06-2025,Phone,4,470.09,Debit Card,Delivered,4,FREESHIP,Google,1880.36,0.0,0.0,1880.36,0.0
+01-06-2025,Laptop,4,119.84,Gift Card,Shipped,8,FREESHIP,Referral,479.36,0.0,0.0,479.36,0.0
+01-07-2023,Laptop,3,557.41,Online,Delivered,4,FREESHIP,Email,1672.23,0.0,0.0,1672.23,0.0
+01-07-2024,Laptop,5,670.48,Gift Card,Returned,5,SAVE10,Facebook,2332.082,233.2082,0.0,0.0,0.0
+01-08-2023,Chair,3,404.79,Cash,Shipped,6,SAVE10,Instagram,1214.37,121.43699999999998,0.0,0.0,0.0
+01-09-2023,Chair,5,253.75,Online,Pending,9,WINTER15,Instagram,1268.75,0.0,190.3125,0.0,0.0
+01-11-2024,Tablet,3,62.77,Gift Card,Shipped,6,FREESHIP,Referral,188.31,0.0,0.0,188.31,0.0
+01-11-2024,Chair,4,650.04,Gift Card,Cancelled,6,SAVE10,Facebook,2332.082,233.2082,0.0,0.0,0.0
+01-12-2023,Printer,5,444.76,Debit Card,Returned,7,WINTER15,Email,2223.8,0.0,333.57,0.0,0.0
+01-12-2023,Tablet,5,287.13,Online,Shipped,10,SAVE10,Email,1435.65,143.565,0.0,0.0,0.0
+01-12-2023,Phone,3,588.74,Debit Card,Pending,8,FREESHIP,Email,1766.22,0.0,0.0,1766.22,0.0
+02-01-2023,Laptop,3,341.15,Cash,Pending,4,FREESHIP,Instagram,1023.45,0.0,0.0,1023.45,0.0
+02-01-2023,Laptop,2,150.05,Credit Card,Cancelled,4,SAVE10,Facebook,300.1,30.01,0.0,0.0,0.0
+02-01-2025,Chair,2,399.04,Cash,Cancelled,3,FREESHIP,Referral,798.08,0.0,0.0,798.08,0.0
+02-01-2025,Chair,2,588.3,Online,Pending,2,FREESHIP,Email,1176.6,0.0,0.0,1176.6,0.0
+02-02-2023,Phone,1,178.44,Credit Card,Cancelled,2,FREESHIP,Google,178.44,0.0,0.0,178.44,0.0
+02-02-2023,Tablet,3,360.66,Online,Returned,5,FREESHIP,Instagram,1081.98,0.0,0.0,1081.98,0.0
+02-02-2025,Chair,1,564.86,Debit Card,Shipped,6,WINTER15,Referral,564.86,0.0,84.729,0.0,0.0
+02-02-2025,Laptop,1,210.7,Online,Shipped,2,WINTER15,Referral,210.7,0.0,31.605,0.0,0.0
+02-03-2023,Printer,4,111.3,Debit Card,Pending,7,FREESHIP,Email,445.2,0.0,0.0,445.2,0.0
+02-03-2023,Phone,4,390.84,Credit Card,Cancelled,9,WINTER15,Referral,1563.36,0.0,234.504,0.0,0.0
+02-03-2023,Printer,3,392.85,Credit Card,Returned,6,WINTER15,Google,1178.55,0.0,176.7825,0.0,0.0
+02-03-2024,Printer,3,146.91,Credit Card,Delivered,6,FREESHIP,Google,440.73,0.0,0.0,440.73,0.0
+02-03-2024,Tablet,1,423.4,Debit Card,Shipped,3,SAVE10,Referral,423.4,42.34,0.0,0.0,0.0
+02-03-2025,Monitor,3,381.41,Online,Pending,6,FREESHIP,Instagram,1144.23,0.0,0.0,1144.23,0.0
+02-03-2025,Desk,5,228.09,Gift Card,Returned,9,FREESHIP,Facebook,1140.45,0.0,0.0,1140.45,0.0
+02-04-2025,Phone,2,134.28,Gift Card,Cancelled,2,SAVE10,Email,268.56,26.855999999999998,0.0,0.0,0.0
+02-05-2023,Laptop,5,678.16,Gift Card,Delivered,7,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+02-05-2023,Tablet,4,231.26,Online,Shipped,6,WINTER15,Google,925.04,0.0,138.75599999999997,0.0,0.0
+02-05-2025,Laptop,5,61.97,Cash,Delivered,6,SAVE10,Email,309.85,30.985,0.0,0.0,278.865
+02-05-2025,Tablet,1,675.57,Cash,Shipped,1,WINTER15,Facebook,675.57,0.0,101.33550000000001,0.0,0.0
+02-06-2023,Desk,4,37.76,Debit Card,Delivered,7,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+02-06-2023,Chair,3,445.12,Gift Card,Cancelled,8,SAVE10,Google,1335.36,133.53599999999997,0.0,0.0,0.0
+02-06-2024,Desk,5,260.53,Gift Card,Pending,5,SAVE10,Instagram,1302.65,130.265,0.0,0.0,0.0
+02-07-2023,Laptop,1,670.54,Cash,Shipped,6,FREESHIP,Referral,670.54,0.0,0.0,670.54,0.0
+02-07-2023,Chair,4,151.2,Gift Card,Pending,9,WINTER15,Facebook,604.8,0.0,90.72,0.0,0.0
+02-07-2024,Desk,5,320.01,Gift Card,Delivered,6,WINTER15,Referral,1600.05,0.0,240.0075,0.0,1360.0425
+02-07-2024,Monitor,4,510.58,Credit Card,Returned,7,WINTER15,Email,2042.32,0.0,306.348,0.0,0.0
+02-08-2023,Monitor,1,489.8,Gift Card,Shipped,4,FREESHIP,Facebook,489.8,0.0,0.0,489.8,0.0
+02-09-2023,Tablet,2,176.46,Credit Card,Delivered,2,FREESHIP,Email,352.92,0.0,0.0,352.92,0.0
+02-09-2024,Phone,1,287.46,Debit Card,Returned,3,FREESHIP,Facebook,287.46,0.0,0.0,287.46,0.0
+02-10-2023,Phone,4,245.28,Credit Card,Delivered,6,WINTER15,Email,981.12,0.0,147.168,0.0,833.952
+02-10-2023,Monitor,5,24.82,Credit Card,Shipped,10,WINTER15,Referral,165.012,0.0,24.7518,0.0,0.0
+02-10-2023,Printer,4,666.52,Cash,Shipped,8,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+02-10-2023,Desk,4,275.28,Gift Card,Shipped,9,WINTER15,Facebook,1101.12,0.0,165.168,0.0,0.0
+02-11-2023,Chair,2,601.43,Online,Pending,5,FREESHIP,Instagram,1202.86,0.0,0.0,1202.86,0.0
+02-11-2023,Monitor,2,365.17,Online,Cancelled,4,FREESHIP,Facebook,730.34,0.0,0.0,730.34,0.0
+02-11-2024,Desk,5,236.38,Credit Card,Returned,7,SAVE10,Facebook,1181.9,118.19,0.0,0.0,0.0
+02-12-2023,Desk,3,120.82,Credit Card,Shipped,5,SAVE10,Referral,362.46,36.246,0.0,0.0,0.0
+02-12-2023,Laptop,2,563.06,Cash,Returned,6,FREESHIP,Instagram,1126.12,0.0,0.0,1126.12,0.0
+02-12-2024,Chair,2,337.32,Credit Card,Cancelled,4,SAVE10,Email,674.64,67.464,0.0,0.0,0.0
+03-01-2023,Tablet,2,448.85,Credit Card,Pending,6,SAVE10,Instagram,897.7,89.77,0.0,0.0,0.0
+03-01-2024,Phone,4,532.87,Cash,Pending,9,FREESHIP,Instagram,2131.48,0.0,0.0,2131.48,0.0
+03-01-2025,Tablet,3,459.34,Gift Card,Pending,3,SAVE10,Instagram,1378.02,137.80200000000002,0.0,0.0,0.0
+03-01-2025,Printer,3,193.58,Gift Card,Pending,7,FREESHIP,Email,580.74,0.0,0.0,580.74,0.0
+03-02-2023,Printer,4,611.26,Cash,Shipped,5,SAVE10,Referral,2332.082,233.2082,0.0,0.0,0.0
+03-02-2024,Printer,4,264.79,Credit Card,Pending,5,SAVE10,Google,1059.16,105.916,0.0,0.0,0.0
+03-03-2025,Tablet,3,205.86,Gift Card,Shipped,4,FREESHIP,Email,617.58,0.0,0.0,617.58,0.0
+03-04-2023,Chair,1,381.61,Debit Card,Pending,5,SAVE10,Email,381.61,38.161,0.0,0.0,0.0
+03-04-2025,Tablet,5,22.07,Online,Cancelled,7,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+03-05-2023,Monitor,4,433.45,Gift Card,Cancelled,4,WINTER15,Facebook,1733.8,0.0,260.07,0.0,0.0
+03-05-2023,Laptop,1,466.42,Gift Card,Pending,5,SAVE10,Email,466.42,46.641999999999996,0.0,0.0,0.0
+03-05-2023,Printer,4,595.62,Debit Card,Pending,8,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+03-05-2023,Desk,1,491.11,Credit Card,Delivered,4,SAVE10,Facebook,491.11,49.111000000000004,0.0,0.0,441.999
+03-05-2025,Tablet,2,464.92,Debit Card,Returned,2,WINTER15,Facebook,929.84,0.0,139.476,0.0,0.0
+03-05-2025,Laptop,2,41.0,Online,Delivered,7,WINTER15,Email,165.012,0.0,24.7518,0.0,140.2602
+03-05-2025,Phone,1,312.11,Online,Cancelled,4,WINTER15,Facebook,312.11,0.0,46.816500000000005,0.0,0.0
+03-05-2025,Desk,4,275.5,Gift Card,Shipped,8,FREESHIP,Google,1102.0,0.0,0.0,1102.0,0.0
+03-06-2023,Desk,4,30.27,Online,Delivered,9,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+03-06-2023,Chair,2,54.41,Online,Shipped,6,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+03-06-2024,Phone,1,586.62,Debit Card,Shipped,5,SAVE10,Facebook,586.62,58.662,0.0,0.0,0.0
+03-06-2024,Chair,4,347.17,Debit Card,Shipped,8,SAVE10,Instagram,1388.68,138.86800000000002,0.0,0.0,0.0
+03-06-2025,Tablet,3,433.33,Credit Card,Cancelled,4,FREESHIP,Referral,1299.99,0.0,0.0,1299.99,0.0
+03-07-2024,Desk,5,125.02,Debit Card,Pending,9,SAVE10,Google,625.1,62.51,0.0,0.0,0.0
+03-08-2023,Laptop,5,133.39,Credit Card,Delivered,6,FREESHIP,Referral,666.95,0.0,0.0,666.95,0.0
+03-08-2023,Printer,2,697.19,Cash,Returned,7,FREESHIP,Email,1394.38,0.0,0.0,1394.38,0.0
+03-08-2024,Laptop,1,133.39,Debit Card,Shipped,2,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+03-08-2024,Tablet,1,436.77,Cash,Returned,5,FREESHIP,Google,436.77,0.0,0.0,436.77,0.0
+03-09-2024,Laptop,4,481.48,Gift Card,Delivered,5,SAVE10,Instagram,1925.92,192.592,0.0,0.0,1733.328
+03-09-2024,Monitor,1,62.12,Cash,Returned,2,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+03-09-2024,Tablet,1,411.34,Debit Card,Returned,5,FREESHIP,Instagram,411.34,0.0,0.0,411.34,0.0
+03-10-2023,Chair,4,549.76,Debit Card,Delivered,4,FREESHIP,Facebook,2199.04,0.0,0.0,2199.04,0.0
+03-10-2024,Monitor,5,421.44,Cash,Pending,5,SAVE10,Instagram,2107.2,210.72,0.0,0.0,0.0
+03-10-2024,Phone,4,429.37,Credit Card,Delivered,8,FREESHIP,Google,1717.48,0.0,0.0,1717.48,0.0
+03-12-2023,Monitor,1,668.48,Debit Card,Shipped,1,SAVE10,Email,668.48,66.848,0.0,0.0,0.0
+03-12-2024,Printer,4,30.05,Online,Returned,6,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,0.0
+03-12-2024,Phone,2,478.36,Online,Shipped,3,SAVE10,Google,956.72,95.67200000000001,0.0,0.0,0.0
+04-01-2023,Laptop,2,388.22,Cash,Delivered,2,WINTER15,Instagram,776.44,0.0,116.46600000000001,0.0,659.974
+04-01-2023,Monitor,5,570.62,Debit Card,Shipped,7,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+04-01-2025,Printer,1,594.96,Cash,Returned,6,SAVE10,Facebook,594.96,59.496,0.0,0.0,0.0
+04-02-2023,Phone,2,182.4,Gift Card,Cancelled,5,SAVE10,Referral,364.8,36.48,0.0,0.0,0.0
+04-02-2024,Tablet,5,226.45,Debit Card,Returned,6,FREESHIP,Email,1132.25,0.0,0.0,1132.25,0.0
+04-02-2024,Desk,4,203.46,Credit Card,Pending,7,SAVE10,Referral,813.84,81.384,0.0,0.0,0.0
+04-02-2025,Desk,3,131.96,Credit Card,Pending,8,WINTER15,Instagram,395.88,0.0,59.382,0.0,0.0
+04-02-2025,Desk,2,629.56,Gift Card,Cancelled,5,WINTER15,Instagram,1259.12,0.0,188.868,0.0,0.0
+04-02-2025,Printer,5,94.85,Cash,Shipped,6,WINTER15,Email,474.25,0.0,71.1375,0.0,0.0
+04-03-2023,Desk,3,147.39,Debit Card,Returned,3,WINTER15,Email,442.17,0.0,66.3255,0.0,0.0
+04-03-2023,Phone,2,625.22,Online,Cancelled,5,WINTER15,Google,1250.44,0.0,187.56600000000003,0.0,0.0
+04-03-2024,Monitor,2,662.53,Online,Cancelled,5,FREESHIP,Facebook,1325.06,0.0,0.0,1325.06,0.0
+04-03-2025,Printer,1,665.11,Cash,Pending,3,FREESHIP,Instagram,665.11,0.0,0.0,665.11,0.0
+04-03-2025,Chair,3,86.29,Cash,Delivered,6,WINTER15,Instagram,258.87,0.0,38.8305,0.0,220.0395
+04-04-2024,Tablet,3,589.3,Credit Card,Returned,6,WINTER15,Referral,1767.9,0.0,265.185,0.0,0.0
+04-04-2024,Tablet,4,214.54,Gift Card,Cancelled,7,WINTER15,Referral,858.16,0.0,128.724,0.0,0.0
+04-04-2025,Desk,4,662.94,Cash,Cancelled,8,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+04-05-2023,Chair,4,693.36,Online,Shipped,8,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+04-05-2024,Phone,2,404.96,Cash,Shipped,4,SAVE10,Email,809.92,80.992,0.0,0.0,0.0
+04-05-2025,Desk,2,139.57,Cash,Delivered,4,WINTER15,Facebook,279.14,0.0,41.870999999999995,0.0,237.269
+04-06-2023,Printer,4,309.91,Debit Card,Shipped,5,WINTER15,Google,1239.64,0.0,185.94600000000003,0.0,0.0
+04-06-2023,Tablet,2,187.88,Online,Shipped,4,WINTER15,Facebook,375.76,0.0,56.364,0.0,0.0
+04-06-2024,Desk,1,394.53,Cash,Shipped,2,FREESHIP,Referral,394.53,0.0,0.0,394.53,0.0
+04-06-2025,Phone,2,485.37,Credit Card,Shipped,5,SAVE10,Email,970.74,97.074,0.0,0.0,0.0
+04-07-2024,Desk,2,359.86,Debit Card,Cancelled,4,WINTER15,Referral,719.72,0.0,107.95800000000001,0.0,0.0
+04-07-2024,Tablet,2,475.78,Online,Shipped,2,WINTER15,Google,951.56,0.0,142.734,0.0,0.0
+04-08-2023,Desk,5,219.78,Credit Card,Pending,8,SAVE10,Facebook,1098.9,109.89,0.0,0.0,0.0
+04-08-2023,Printer,2,68.81,Gift Card,Shipped,5,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+04-08-2024,Printer,3,569.84,Gift Card,Cancelled,8,WINTER15,Instagram,1709.52,0.0,256.428,0.0,0.0
+04-08-2024,Desk,5,298.39,Gift Card,Cancelled,7,WINTER15,Referral,1491.95,0.0,223.7925,0.0,0.0
+04-09-2023,Tablet,5,653.46,Cash,Cancelled,9,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,0.0
+04-09-2023,Tablet,2,424.32,Credit Card,Returned,6,FREESHIP,Referral,848.64,0.0,0.0,848.64,0.0
+04-09-2023,Laptop,2,160.0,Cash,Pending,4,SAVE10,Instagram,320.0,32.0,0.0,0.0,0.0
+04-09-2024,Phone,5,53.93,Gift Card,Shipped,7,SAVE10,Instagram,269.65,26.965,0.0,0.0,0.0
+04-09-2024,Desk,1,541.64,Debit Card,Shipped,5,SAVE10,Email,541.64,54.163999999999994,0.0,0.0,0.0
+04-10-2023,Desk,4,153.09,Online,Delivered,4,FREESHIP,Referral,612.36,0.0,0.0,612.36,0.0
+04-10-2024,Tablet,1,657.07,Cash,Pending,4,SAVE10,Google,657.07,65.70700000000001,0.0,0.0,0.0
+04-10-2024,Monitor,1,208.36,Online,Shipped,4,FREESHIP,Email,208.36,0.0,0.0,208.36,0.0
+04-11-2023,Chair,2,65.07,Credit Card,Cancelled,4,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+04-12-2023,Tablet,4,494.84,Cash,Returned,8,SAVE10,Email,1979.36,197.93599999999998,0.0,0.0,0.0
+04-12-2024,Chair,1,320.92,Online,Returned,5,FREESHIP,Facebook,320.92,0.0,0.0,320.92,0.0
+05-01-2023,Phone,5,420.7,Cash,Pending,5,WINTER15,Facebook,2103.5,0.0,315.525,0.0,0.0
+05-01-2023,Phone,5,307.76,Gift Card,Pending,9,FREESHIP,Google,1538.8,0.0,0.0,1538.8,0.0
+05-01-2024,Tablet,4,565.2,Debit Card,Shipped,9,SAVE10,Google,2260.8,226.08,0.0,0.0,0.0
+05-01-2024,Printer,3,426.12,Online,Delivered,5,WINTER15,Instagram,1278.36,0.0,191.754,0.0,1086.606
+05-02-2023,Desk,1,257.0,Debit Card,Cancelled,5,SAVE10,Referral,257.0,25.7,0.0,0.0,0.0
+05-02-2023,Monitor,1,76.93,Debit Card,Delivered,6,WINTER15,Instagram,165.012,0.0,24.7518,0.0,140.2602
+05-02-2025,Monitor,4,237.43,Cash,Cancelled,8,WINTER15,Referral,949.72,0.0,142.458,0.0,0.0
+05-03-2023,Desk,1,565.85,Gift Card,Returned,1,FREESHIP,Facebook,565.85,0.0,0.0,565.85,0.0
+05-03-2024,Tablet,4,26.04,Online,Pending,5,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+05-03-2025,Monitor,3,158.37,Cash,Shipped,6,SAVE10,Referral,475.11,47.511,0.0,0.0,0.0
+05-03-2025,Phone,2,253.74,Online,Shipped,5,SAVE10,Google,507.48,50.748000000000005,0.0,0.0,0.0
+05-03-2025,Monitor,5,26.43,Gift Card,Shipped,5,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+05-04-2023,Desk,3,42.95,Gift Card,Returned,8,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+05-04-2023,Desk,1,281.52,Gift Card,Shipped,6,WINTER15,Referral,281.52,0.0,42.227999999999994,0.0,0.0
+05-05-2023,Chair,3,99.9,Cash,Delivered,8,FREESHIP,Facebook,299.7,0.0,0.0,299.7,0.0
+05-06-2023,Chair,1,162.77,Online,Cancelled,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+05-06-2023,Phone,4,206.6,Gift Card,Returned,6,WINTER15,Referral,826.4,0.0,123.96,0.0,0.0
+05-06-2024,Chair,5,341.84,Online,Shipped,8,FREESHIP,Instagram,1709.2,0.0,0.0,1709.2,0.0
+05-06-2025,Desk,3,114.81,Gift Card,Cancelled,7,SAVE10,Google,344.43,34.443000000000005,0.0,0.0,0.0
+05-06-2025,Phone,4,493.73,Debit Card,Pending,6,SAVE10,Facebook,1974.92,197.49200000000002,0.0,0.0,0.0
+05-06-2025,Desk,1,440.34,Gift Card,Shipped,2,WINTER15,Facebook,440.34,0.0,66.05099999999999,0.0,0.0
+05-06-2025,Phone,5,283.73,Gift Card,Pending,8,FREESHIP,Instagram,1418.65,0.0,0.0,1418.65,0.0
+05-07-2023,Phone,1,171.59,Credit Card,Pending,5,WINTER15,Email,171.59,0.0,25.7385,0.0,0.0
+05-07-2023,Printer,5,429.45,Gift Card,Cancelled,5,WINTER15,Email,2147.25,0.0,322.0875,0.0,0.0
+05-07-2023,Desk,5,529.55,Gift Card,Shipped,10,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+05-07-2024,Monitor,2,253.67,Cash,Returned,3,WINTER15,Facebook,507.34,0.0,76.101,0.0,0.0
+05-08-2023,Chair,5,431.69,Credit Card,Pending,10,SAVE10,Facebook,2158.45,215.845,0.0,0.0,0.0
+05-09-2023,Tablet,3,149.34,Gift Card,Cancelled,7,WINTER15,Email,448.02,0.0,67.20299999999999,0.0,0.0
+05-09-2023,Laptop,4,413.71,Gift Card,Cancelled,9,FREESHIP,Facebook,1654.84,0.0,0.0,1654.84,0.0
+05-10-2023,Laptop,4,371.07,Cash,Cancelled,7,WINTER15,Facebook,1484.28,0.0,222.642,0.0,0.0
+05-10-2023,Chair,4,598.19,Credit Card,Delivered,7,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+05-11-2023,Laptop,2,28.55,Gift Card,Shipped,7,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+05-11-2023,Phone,4,41.9,Gift Card,Pending,9,FREESHIP,Instagram,167.6,0.0,0.0,167.6,0.0
+05-11-2024,Desk,4,83.6,Debit Card,Pending,4,SAVE10,Facebook,334.4,33.44,0.0,0.0,0.0
+05-12-2023,Monitor,3,611.45,Gift Card,Pending,4,FREESHIP,Instagram,1834.35,0.0,0.0,1834.35,0.0
+05-12-2024,Chair,3,358.48,Gift Card,Delivered,7,FREESHIP,Facebook,1075.44,0.0,0.0,1075.44,0.0
+05-12-2024,Chair,1,36.65,Online,Cancelled,1,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+06-01-2023,Chair,3,508.12,Credit Card,Cancelled,8,FREESHIP,Referral,1524.36,0.0,0.0,1524.36,0.0
+06-02-2023,Phone,1,131.61,Cash,Shipped,2,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+06-02-2025,Monitor,3,253.98,Credit Card,Cancelled,3,FREESHIP,Email,761.94,0.0,0.0,761.94,0.0
+06-03-2024,Laptop,5,59.55,Online,Delivered,6,SAVE10,Referral,297.75,29.775,0.0,0.0,267.975
+06-03-2024,Monitor,4,593.22,Credit Card,Cancelled,8,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+06-03-2025,Tablet,3,623.34,Online,Cancelled,3,SAVE10,Instagram,1870.02,187.002,0.0,0.0,0.0
+06-04-2023,Printer,3,539.46,Credit Card,Shipped,4,SAVE10,Facebook,1618.38,161.83800000000002,0.0,0.0,0.0
+06-04-2023,Laptop,1,569.96,Online,Delivered,4,FREESHIP,Email,569.96,0.0,0.0,569.96,0.0
+06-04-2024,Desk,1,277.09,Cash,Returned,2,SAVE10,Referral,277.09,27.708999999999996,0.0,0.0,0.0
+06-04-2024,Monitor,3,267.45,Gift Card,Delivered,5,WINTER15,Instagram,802.35,0.0,120.3525,0.0,681.9975000000001
+06-04-2025,Printer,1,254.12,Online,Delivered,1,WINTER15,Email,254.12,0.0,38.118,0.0,216.002
+06-04-2025,Chair,1,184.15,Gift Card,Shipped,5,FREESHIP,Facebook,184.15,0.0,0.0,184.15,0.0
+06-05-2023,Monitor,4,234.45,Online,Cancelled,9,FREESHIP,Instagram,937.8,0.0,0.0,937.8,0.0
+06-05-2023,Printer,5,374.58,Gift Card,Cancelled,10,FREESHIP,Instagram,1872.9,0.0,0.0,1872.9,0.0
+06-05-2024,Chair,5,314.94,Cash,Pending,8,SAVE10,Instagram,1574.7,157.47,0.0,0.0,0.0
+06-05-2024,Printer,2,151.66,Cash,Cancelled,6,SAVE10,Instagram,303.32,30.331999999999997,0.0,0.0,0.0
+06-05-2025,Desk,2,697.93,Credit Card,Cancelled,2,SAVE10,Google,1395.86,139.58599999999998,0.0,0.0,0.0
+06-05-2025,Laptop,2,465.18,Credit Card,Cancelled,2,SAVE10,Google,930.36,93.036,0.0,0.0,0.0
+06-05-2025,Tablet,5,638.92,Credit Card,Returned,5,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+06-06-2023,Phone,2,316.2,Online,Returned,2,WINTER15,Instagram,632.4,0.0,94.86,0.0,0.0
+06-06-2024,Chair,3,648.59,Debit Card,Cancelled,4,SAVE10,Email,1945.77,194.577,0.0,0.0,0.0
+06-06-2024,Phone,4,589.57,Cash,Pending,8,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+06-07-2023,Printer,4,678.55,Cash,Delivered,5,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+06-07-2023,Desk,3,278.04,Online,Delivered,5,WINTER15,Instagram,834.12,0.0,125.118,0.0,709.002
+06-08-2023,Chair,3,498.68,Online,Returned,4,FREESHIP,Email,1496.04,0.0,0.0,1496.04,0.0
+06-08-2024,Desk,3,342.02,Debit Card,Pending,5,FREESHIP,Email,1026.06,0.0,0.0,1026.06,0.0
+06-08-2024,Printer,4,175.36,Debit Card,Delivered,4,FREESHIP,Instagram,701.44,0.0,0.0,701.44,0.0
+06-09-2023,Desk,5,272.77,Cash,Pending,7,WINTER15,Email,1363.85,0.0,204.5775,0.0,0.0
+06-09-2024,Monitor,1,304.11,Gift Card,Shipped,2,SAVE10,Referral,304.11,30.411000000000005,0.0,0.0,0.0
+06-09-2024,Desk,4,491.29,Debit Card,Pending,6,SAVE10,Email,1965.16,196.51600000000002,0.0,0.0,0.0
+06-09-2024,Phone,2,142.08,Gift Card,Delivered,4,SAVE10,Referral,284.16,28.416000000000004,0.0,0.0,255.74400000000003
+06-10-2023,Chair,3,573.22,Debit Card,Pending,5,SAVE10,Email,1719.66,171.966,0.0,0.0,0.0
+06-10-2023,Laptop,3,663.93,Gift Card,Returned,6,FREESHIP,Email,1991.79,0.0,0.0,1991.79,0.0
+06-10-2023,Laptop,2,534.91,Debit Card,Returned,5,SAVE10,Google,1069.82,106.98199999999999,0.0,0.0,0.0
+06-10-2024,Laptop,1,144.25,Cash,Returned,2,WINTER15,Referral,165.012,0.0,24.7518,0.0,0.0
+06-10-2024,Printer,1,52.54,Debit Card,Cancelled,6,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+06-11-2024,Phone,2,512.65,Credit Card,Shipped,5,SAVE10,Email,1025.3,102.53,0.0,0.0,0.0
+06-11-2024,Laptop,3,274.75,Cash,Cancelled,3,SAVE10,Google,824.25,82.425,0.0,0.0,0.0
+06-12-2024,Tablet,1,655.09,Cash,Pending,6,WINTER15,Referral,655.09,0.0,98.26350000000001,0.0,0.0
+07-01-2023,Chair,4,576.52,Credit Card,Pending,5,WINTER15,Facebook,2306.08,0.0,345.912,0.0,0.0
+07-01-2023,Tablet,1,92.04,Cash,Shipped,2,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+07-01-2024,Tablet,5,423.93,Debit Card,Returned,5,FREESHIP,Facebook,2119.65,0.0,0.0,2119.65,0.0
+07-02-2024,Printer,1,546.19,Cash,Pending,5,FREESHIP,Referral,546.19,0.0,0.0,546.19,0.0
+07-02-2025,Desk,1,234.37,Debit Card,Shipped,5,FREESHIP,Email,234.37,0.0,0.0,234.37,0.0
+07-02-2025,Laptop,5,73.83,Debit Card,Pending,9,FREESHIP,Instagram,369.15,0.0,0.0,369.15,0.0
+07-02-2025,Printer,2,374.6,Online,Shipped,3,FREESHIP,Referral,749.2,0.0,0.0,749.2,0.0
+07-03-2025,Monitor,5,460.14,Credit Card,Returned,10,WINTER15,Facebook,2300.7,0.0,345.105,0.0,0.0
+07-03-2025,Laptop,1,132.05,Online,Delivered,2,WINTER15,Google,165.012,0.0,24.7518,0.0,140.2602
+07-03-2025,Printer,3,305.16,Credit Card,Cancelled,8,SAVE10,Referral,915.48,91.54799999999999,0.0,0.0,0.0
+07-04-2024,Printer,1,427.82,Online,Delivered,2,WINTER15,Email,427.82,0.0,64.173,0.0,363.647
+07-04-2024,Tablet,2,183.67,Online,Cancelled,3,SAVE10,Google,367.34,36.733999999999995,0.0,0.0,0.0
+07-04-2024,Printer,2,416.81,Cash,Returned,2,SAVE10,Facebook,833.62,83.36200000000001,0.0,0.0,0.0
+07-04-2024,Laptop,5,508.59,Cash,Returned,8,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+07-04-2024,Laptop,4,515.59,Credit Card,Shipped,7,FREESHIP,Google,2062.36,0.0,0.0,2062.36,0.0
+07-04-2024,Tablet,2,675.1,Cash,Pending,4,FREESHIP,Google,1350.2,0.0,0.0,1350.2,0.0
+07-04-2024,Monitor,3,166.99,Cash,Returned,8,WINTER15,Facebook,500.97,0.0,75.1455,0.0,0.0
+07-04-2025,Monitor,3,139.45,Gift Card,Returned,8,WINTER15,Google,418.35,0.0,62.7525,0.0,0.0
+07-05-2024,Tablet,2,273.43,Cash,Shipped,7,WINTER15,Referral,546.86,0.0,82.029,0.0,0.0
+07-05-2025,Desk,3,309.22,Online,Cancelled,7,FREESHIP,Google,927.66,0.0,0.0,927.66,0.0
+07-05-2025,Laptop,3,364.14,Online,Pending,7,WINTER15,Referral,1092.42,0.0,163.86300000000003,0.0,0.0
+07-06-2023,Chair,1,191.76,Credit Card,Returned,1,FREESHIP,Instagram,191.76,0.0,0.0,191.76,0.0
+07-06-2023,Phone,1,450.07,Gift Card,Shipped,6,FREESHIP,Google,450.07,0.0,0.0,450.07,0.0
+07-06-2023,Chair,5,448.15,Gift Card,Returned,7,SAVE10,Google,2240.75,224.075,0.0,0.0,0.0
+07-06-2023,Monitor,5,678.19,Online,Returned,8,SAVE10,Facebook,2332.082,233.2082,0.0,0.0,0.0
+07-06-2024,Printer,2,57.07,Debit Card,Returned,3,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+07-06-2024,Printer,5,584.46,Credit Card,Returned,8,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+07-06-2025,Tablet,5,433.26,Credit Card,Delivered,9,SAVE10,Google,2166.3,216.63,0.0,0.0,1949.67
+07-07-2023,Phone,3,19.73,Online,Pending,3,WINTER15,Referral,165.012,0.0,24.7518,0.0,0.0
+07-08-2023,Printer,5,456.06,Cash,Pending,10,FREESHIP,Instagram,2280.3,0.0,0.0,2280.3,0.0
+07-09-2023,Phone,4,465.66,Online,Returned,9,FREESHIP,Email,1862.64,0.0,0.0,1862.64,0.0
+07-09-2024,Laptop,4,644.96,Credit Card,Pending,7,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+07-09-2024,Desk,1,627.15,Cash,Delivered,5,SAVE10,Instagram,627.15,62.715,0.0,0.0,564.435
+07-10-2023,Printer,1,30.44,Credit Card,Shipped,1,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+07-10-2023,Printer,2,371.29,Gift Card,Shipped,5,WINTER15,Facebook,742.58,0.0,111.387,0.0,0.0
+07-10-2024,Tablet,3,547.15,Online,Shipped,4,WINTER15,Instagram,1641.45,0.0,246.2175,0.0,0.0
+07-10-2024,Laptop,4,653.13,Credit Card,Shipped,8,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+07-12-2023,Tablet,5,501.26,Gift Card,Shipped,10,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+07-12-2023,Phone,2,133.55,Cash,Pending,7,FREESHIP,Facebook,267.1,0.0,0.0,267.1,0.0
+07-12-2024,Desk,1,386.03,Online,Pending,4,FREESHIP,Google,386.03,0.0,0.0,386.03,0.0
+07-12-2024,Tablet,1,30.54,Debit Card,Returned,1,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+07-12-2024,Monitor,2,465.15,Online,Shipped,2,SAVE10,Facebook,930.3,93.03,0.0,0.0,0.0
+08-01-2023,Tablet,1,84.8,Gift Card,Pending,5,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+08-01-2023,Phone,1,70.82,Gift Card,Pending,1,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+08-01-2023,Laptop,5,518.55,Credit Card,Cancelled,6,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+08-01-2024,Tablet,3,475.69,Gift Card,Cancelled,3,FREESHIP,Google,1427.07,0.0,0.0,1427.07,0.0
+08-01-2024,Tablet,5,315.57,Debit Card,Delivered,6,WINTER15,Email,1577.85,0.0,236.6775,0.0,1341.1725
+08-02-2023,Chair,1,590.87,Gift Card,Returned,6,FREESHIP,Referral,590.87,0.0,0.0,590.87,0.0
+08-02-2024,Monitor,4,412.2,Credit Card,Shipped,6,WINTER15,Referral,1648.8,0.0,247.32,0.0,0.0
+08-02-2024,Tablet,3,184.47,Online,Cancelled,4,FREESHIP,Referral,553.41,0.0,0.0,553.41,0.0
+08-02-2025,Chair,5,68.34,Debit Card,Pending,6,WINTER15,Referral,341.7,0.0,51.255,0.0,0.0
+08-03-2023,Tablet,1,535.5,Gift Card,Cancelled,5,WINTER15,Referral,535.5,0.0,80.325,0.0,0.0
+08-03-2023,Laptop,2,70.34,Gift Card,Cancelled,3,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+08-03-2024,Phone,1,96.81,Gift Card,Cancelled,3,WINTER15,Referral,165.012,0.0,24.7518,0.0,0.0
+08-03-2025,Printer,3,463.81,Online,Returned,8,WINTER15,Email,1391.43,0.0,208.71450000000002,0.0,0.0
+08-03-2025,Laptop,2,488.87,Online,Cancelled,4,FREESHIP,Google,977.74,0.0,0.0,977.74,0.0
+08-04-2023,Laptop,4,64.74,Gift Card,Cancelled,8,SAVE10,Google,258.96,25.896,0.0,0.0,0.0
+08-04-2023,Laptop,2,331.42,Credit Card,Delivered,6,WINTER15,Google,662.84,0.0,99.426,0.0,563.414
+08-04-2024,Printer,4,77.47,Gift Card,Returned,7,SAVE10,Instagram,309.88,30.988000000000003,0.0,0.0,0.0
+08-04-2025,Phone,2,547.67,Gift Card,Shipped,3,WINTER15,Instagram,1095.34,0.0,164.301,0.0,0.0
+08-04-2025,Desk,5,364.28,Credit Card,Cancelled,5,WINTER15,Google,1821.4,0.0,273.21,0.0,0.0
+08-05-2023,Chair,5,62.51,Cash,Pending,9,WINTER15,Instagram,312.55,0.0,46.8825,0.0,0.0
+08-05-2023,Laptop,4,686.61,Cash,Shipped,6,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+08-05-2025,Laptop,2,534.43,Debit Card,Pending,5,SAVE10,Facebook,1068.86,106.88599999999998,0.0,0.0,0.0
+08-05-2025,Printer,4,626.01,Online,Delivered,8,SAVE10,Email,2332.082,233.2082,0.0,0.0,2098.8738
+08-06-2023,Monitor,2,394.3,Cash,Shipped,6,FREESHIP,Email,788.6,0.0,0.0,788.6,0.0
+08-06-2024,Desk,4,38.28,Debit Card,Cancelled,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+08-06-2024,Printer,1,135.17,Online,Shipped,6,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+08-06-2024,Chair,4,583.07,Credit Card,Cancelled,6,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+08-06-2024,Monitor,1,249.57,Cash,Shipped,3,FREESHIP,Google,249.57,0.0,0.0,249.57,0.0
+08-06-2024,Tablet,1,401.82,Credit Card,Shipped,5,FREESHIP,Google,401.82,0.0,0.0,401.82,0.0
+08-06-2025,Desk,3,616.39,Credit Card,Shipped,6,FREESHIP,Instagram,1849.17,0.0,0.0,1849.17,0.0
+08-06-2025,Monitor,3,161.97,Cash,Pending,4,SAVE10,Email,485.91,48.591,0.0,0.0,0.0
+08-07-2023,Laptop,3,182.48,Cash,Delivered,3,FREESHIP,Instagram,547.44,0.0,0.0,547.44,0.0
+08-07-2023,Laptop,5,408.56,Debit Card,Delivered,8,FREESHIP,Instagram,2042.8,0.0,0.0,2042.8,0.0
+08-07-2024,Chair,1,343.31,Gift Card,Returned,6,SAVE10,Google,343.31,34.330999999999996,0.0,0.0,0.0
+08-09-2023,Desk,3,465.05,Credit Card,Cancelled,3,SAVE10,Email,1395.15,139.515,0.0,0.0,0.0
+08-09-2023,Phone,4,186.41,Gift Card,Pending,6,SAVE10,Google,745.64,74.564,0.0,0.0,0.0
+08-09-2023,Desk,2,412.14,Credit Card,Returned,2,FREESHIP,Instagram,824.28,0.0,0.0,824.28,0.0
+08-09-2024,Tablet,1,586.44,Online,Returned,5,SAVE10,Facebook,586.44,58.644000000000005,0.0,0.0,0.0
+08-09-2024,Monitor,1,70.24,Credit Card,Cancelled,4,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+08-09-2024,Tablet,1,146.32,Online,Shipped,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+08-10-2023,Phone,3,107.36,Gift Card,Delivered,5,FREESHIP,Google,322.08,0.0,0.0,322.08,0.0
+08-10-2023,Tablet,1,118.8,Online,Delivered,6,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+08-10-2024,Desk,2,408.32,Online,Shipped,3,FREESHIP,Facebook,816.64,0.0,0.0,816.64,0.0
+08-10-2024,Laptop,3,209.48,Debit Card,Pending,4,FREESHIP,Email,628.44,0.0,0.0,628.44,0.0
+08-11-2023,Phone,5,305.49,Debit Card,Shipped,10,SAVE10,Referral,1527.45,152.745,0.0,0.0,0.0
+08-11-2024,Chair,2,269.83,Online,Delivered,4,SAVE10,Email,539.66,53.965999999999994,0.0,0.0,485.69399999999996
+08-12-2023,Printer,2,253.68,Gift Card,Shipped,6,FREESHIP,Referral,507.36,0.0,0.0,507.36,0.0
+09-01-2024,Laptop,4,358.75,Gift Card,Delivered,9,SAVE10,Facebook,1435.0,143.5,0.0,0.0,1291.5
+09-01-2024,Tablet,2,68.4,Gift Card,Pending,7,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+09-02-2024,Monitor,5,418.53,Credit Card,Pending,6,FREESHIP,Google,2092.65,0.0,0.0,2092.65,0.0
+09-02-2025,Tablet,3,94.88,Gift Card,Shipped,8,WINTER15,Referral,284.64,0.0,42.696,0.0,0.0
+09-03-2023,Laptop,2,301.88,Gift Card,Returned,5,WINTER15,Email,603.76,0.0,90.564,0.0,0.0
+09-03-2023,Monitor,2,99.1,Cash,Delivered,6,WINTER15,Instagram,198.2,0.0,29.73,0.0,168.47
+09-03-2023,Printer,4,384.85,Online,Delivered,9,FREESHIP,Instagram,1539.4,0.0,0.0,1539.4,0.0
+09-03-2023,Printer,3,346.52,Credit Card,Pending,3,SAVE10,Google,1039.56,103.95599999999999,0.0,0.0,0.0
+09-03-2024,Desk,5,269.86,Cash,Shipped,6,WINTER15,Facebook,1349.3,0.0,202.395,0.0,0.0
+09-04-2023,Printer,5,337.38,Gift Card,Shipped,5,WINTER15,Referral,1686.9,0.0,253.035,0.0,0.0
+09-04-2024,Desk,5,217.43,Debit Card,Shipped,10,SAVE10,Instagram,1087.15,108.715,0.0,0.0,0.0
+09-04-2024,Tablet,4,198.35,Cash,Cancelled,7,FREESHIP,Google,793.4,0.0,0.0,793.4,0.0
+09-04-2024,Printer,2,467.91,Gift Card,Returned,5,WINTER15,Facebook,935.82,0.0,140.37300000000002,0.0,0.0
+09-04-2025,Printer,1,538.68,Debit Card,Returned,6,FREESHIP,Referral,538.68,0.0,0.0,538.68,0.0
+09-04-2025,Phone,4,273.25,Debit Card,Cancelled,5,FREESHIP,Referral,1093.0,0.0,0.0,1093.0,0.0
+09-05-2023,Phone,2,624.16,Debit Card,Shipped,2,SAVE10,Instagram,1248.32,124.832,0.0,0.0,0.0
+09-05-2023,Chair,4,576.87,Gift Card,Returned,5,SAVE10,Instagram,2307.48,230.748,0.0,0.0,0.0
+09-05-2023,Printer,2,219.1,Online,Pending,4,SAVE10,Referral,438.2,43.82,0.0,0.0,0.0
+09-05-2024,Desk,5,127.18,Debit Card,Cancelled,10,FREESHIP,Google,635.9,0.0,0.0,635.9,0.0
+09-05-2024,Laptop,3,247.11,Debit Card,Returned,3,WINTER15,Referral,741.33,0.0,111.1995,0.0,0.0
+09-05-2025,Chair,2,144.66,Online,Cancelled,7,FREESHIP,Google,289.32,0.0,0.0,289.32,0.0
+09-06-2023,Phone,4,197.36,Gift Card,Returned,9,FREESHIP,Instagram,789.44,0.0,0.0,789.44,0.0
+09-06-2023,Desk,4,606.57,Debit Card,Delivered,5,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+09-06-2024,Chair,1,616.1,Cash,Returned,6,WINTER15,Email,616.1,0.0,92.415,0.0,0.0
+09-06-2024,Printer,3,562.55,Debit Card,Returned,6,WINTER15,Email,1687.65,0.0,253.1475,0.0,0.0
+09-06-2024,Chair,5,608.91,Gift Card,Pending,6,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+09-06-2024,Laptop,1,90.27,Cash,Delivered,5,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+09-06-2025,Desk,5,230.77,Online,Pending,10,WINTER15,Referral,1153.85,0.0,173.0775,0.0,0.0
+09-06-2025,Printer,4,214.35,Debit Card,Cancelled,7,WINTER15,Referral,857.4,0.0,128.61,0.0,0.0
+09-06-2025,Chair,4,246.91,Online,Pending,8,SAVE10,Referral,987.64,98.764,0.0,0.0,0.0
+09-07-2023,Chair,2,434.3,Cash,Delivered,7,SAVE10,Instagram,868.6,86.86,0.0,0.0,781.74
+09-07-2024,Chair,1,123.28,Credit Card,Delivered,3,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+09-08-2023,Phone,4,152.29,Debit Card,Cancelled,6,WINTER15,Google,609.16,0.0,91.374,0.0,0.0
+09-09-2024,Chair,5,90.92,Credit Card,Delivered,9,SAVE10,Facebook,454.6,45.46,0.0,0.0,409.14000000000004
+09-09-2024,Tablet,3,146.73,Cash,Delivered,8,FREESHIP,Email,440.19,0.0,0.0,440.19,0.0
+09-09-2024,Monitor,4,73.65,Debit Card,Shipped,9,SAVE10,Google,294.6,29.46,0.0,0.0,0.0
+09-10-2023,Printer,5,502.71,Gift Card,Shipped,7,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+09-10-2023,Desk,3,53.6,Cash,Pending,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+09-11-2023,Chair,3,154.64,Debit Card,Pending,6,WINTER15,Facebook,463.92,0.0,69.58800000000001,0.0,0.0
+09-11-2023,Tablet,2,344.18,Credit Card,Shipped,7,WINTER15,Referral,688.36,0.0,103.25399999999999,0.0,0.0
+09-11-2023,Desk,5,110.38,Cash,Pending,10,WINTER15,Referral,551.9,0.0,82.785,0.0,0.0
+09-12-2023,Desk,3,54.95,Cash,Returned,8,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+09-12-2024,Printer,4,12.1,Debit Card,Cancelled,8,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+09-12-2024,Tablet,2,409.75,Debit Card,Shipped,2,WINTER15,Facebook,819.5,0.0,122.925,0.0,0.0
+10-01-2023,Phone,4,249.07,Credit Card,Returned,5,WINTER15,Referral,996.28,0.0,149.44199999999998,0.0,0.0
+10-01-2024,Phone,5,524.26,Gift Card,Delivered,5,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+10-01-2025,Printer,2,385.16,Online,Pending,7,SAVE10,Email,770.32,77.03200000000001,0.0,0.0,0.0
+10-02-2023,Printer,3,602.24,Debit Card,Pending,8,FREESHIP,Referral,1806.72,0.0,0.0,1806.72,0.0
+10-02-2024,Chair,1,317.25,Debit Card,Returned,1,SAVE10,Facebook,317.25,31.725,0.0,0.0,0.0
+10-02-2025,Laptop,2,500.8,Cash,Delivered,3,FREESHIP,Referral,1001.6,0.0,0.0,1001.6,0.0
+10-02-2025,Desk,1,626.6,Gift Card,Returned,4,WINTER15,Facebook,626.6,0.0,93.99,0.0,0.0
+10-02-2025,Desk,4,376.43,Gift Card,Pending,5,WINTER15,Instagram,1505.72,0.0,225.858,0.0,0.0
+10-03-2023,Laptop,2,343.99,Online,Delivered,4,FREESHIP,Google,687.98,0.0,0.0,687.98,0.0
+10-03-2023,Monitor,3,635.98,Cash,Returned,5,FREESHIP,Referral,1907.94,0.0,0.0,1907.94,0.0
+10-03-2024,Laptop,5,627.43,Credit Card,Cancelled,10,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+10-03-2024,Phone,3,257.84,Online,Delivered,4,FREESHIP,Instagram,773.52,0.0,0.0,773.52,0.0
+10-03-2024,Printer,5,31.96,Credit Card,Returned,5,FREESHIP,Referral,165.012,0.0,0.0,165.012,0.0
+10-03-2025,Tablet,2,311.91,Online,Shipped,2,WINTER15,Facebook,623.82,0.0,93.57300000000001,0.0,0.0
+10-04-2023,Monitor,2,139.95,Online,Returned,5,WINTER15,Instagram,279.9,0.0,41.985,0.0,0.0
+10-04-2023,Phone,1,583.9,Cash,Returned,1,WINTER15,Email,583.9,0.0,87.585,0.0,0.0
+10-04-2024,Laptop,5,601.72,Gift Card,Cancelled,5,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+10-04-2024,Printer,2,236.33,Online,Pending,3,SAVE10,Instagram,472.66,47.266000000000005,0.0,0.0,0.0
+10-05-2024,Phone,1,222.73,Online,Returned,4,SAVE10,Google,222.73,22.272999999999996,0.0,0.0,0.0
+10-05-2024,Monitor,2,228.91,Debit Card,Shipped,4,SAVE10,Referral,457.82,45.782,0.0,0.0,0.0
+10-05-2025,Laptop,4,464.29,Debit Card,Returned,5,SAVE10,Email,1857.16,185.716,0.0,0.0,0.0
+10-05-2025,Tablet,1,195.86,Online,Pending,3,SAVE10,Facebook,195.86,19.586000000000002,0.0,0.0,0.0
+10-06-2024,Printer,4,48.61,Online,Shipped,7,FREESHIP,Facebook,194.44,0.0,0.0,194.44,0.0
+10-06-2025,Phone,1,338.31,Online,Delivered,3,SAVE10,Google,338.31,33.830999999999996,0.0,0.0,304.479
+10-06-2025,Monitor,3,434.45,Credit Card,Pending,4,SAVE10,Referral,1303.35,130.335,0.0,0.0,0.0
+10-07-2023,Chair,4,629.34,Cash,Shipped,7,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+10-08-2023,Printer,1,303.6,Cash,Shipped,5,FREESHIP,Facebook,303.6,0.0,0.0,303.6,0.0
+10-08-2023,Desk,3,469.32,Debit Card,Shipped,3,WINTER15,Google,1407.96,0.0,211.19400000000002,0.0,0.0
+10-09-2023,Printer,2,461.13,Gift Card,Returned,4,FREESHIP,Email,922.26,0.0,0.0,922.26,0.0
+10-09-2024,Printer,3,91.74,Debit Card,Returned,8,FREESHIP,Referral,275.22,0.0,0.0,275.22,0.0
+10-10-2024,Tablet,3,225.11,Cash,Shipped,4,SAVE10,Facebook,675.33,67.533,0.0,0.0,0.0
+10-10-2024,Monitor,5,566.07,Credit Card,Delivered,6,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,2098.8738
+10-11-2024,Monitor,1,522.08,Gift Card,Returned,5,FREESHIP,Referral,522.08,0.0,0.0,522.08,0.0
+10-11-2024,Monitor,3,676.21,Online,Delivered,5,SAVE10,Google,2028.63,202.86300000000003,0.0,0.0,1825.767
+10-11-2024,Tablet,1,620.21,Online,Returned,1,FREESHIP,Referral,620.21,0.0,0.0,620.21,0.0
+10-12-2023,Tablet,4,66.1,Cash,Returned,9,WINTER15,Google,264.4,0.0,39.66,0.0,0.0
+10-12-2024,Monitor,4,577.82,Credit Card,Delivered,9,WINTER15,Google,2311.28,0.0,346.69200000000006,0.0,1964.5880000000002
+11-01-2023,Printer,5,319.97,Cash,Shipped,7,SAVE10,Google,1599.85,159.985,0.0,0.0,0.0
+11-01-2023,Printer,1,310.93,Online,Cancelled,3,WINTER15,Facebook,310.93,0.0,46.6395,0.0,0.0
+11-01-2025,Tablet,2,179.96,Gift Card,Shipped,5,SAVE10,Instagram,359.92,35.992000000000004,0.0,0.0,0.0
+11-02-2023,Laptop,4,221.33,Online,Pending,5,WINTER15,Google,885.32,0.0,132.798,0.0,0.0
+11-02-2023,Chair,1,531.18,Gift Card,Returned,6,WINTER15,Instagram,531.18,0.0,79.67699999999999,0.0,0.0
+11-02-2023,Printer,3,649.93,Credit Card,Pending,7,WINTER15,Facebook,1949.79,0.0,292.4685,0.0,0.0
+11-02-2023,Monitor,4,558.9,Gift Card,Shipped,9,WINTER15,Google,2235.6,0.0,335.34,0.0,0.0
+11-02-2024,Desk,1,314.38,Online,Returned,6,SAVE10,Google,314.38,31.438000000000002,0.0,0.0,0.0
+11-03-2024,Chair,5,530.34,Online,Shipped,9,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+11-03-2025,Phone,2,224.37,Debit Card,Delivered,3,WINTER15,Referral,448.74,0.0,67.311,0.0,381.429
+11-04-2023,Tablet,4,629.34,Cash,Cancelled,4,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+11-04-2024,Phone,2,160.98,Debit Card,Delivered,3,SAVE10,Referral,321.96,32.196,0.0,0.0,289.764
+11-04-2024,Desk,4,577.08,Online,Pending,8,SAVE10,Facebook,2308.32,230.832,0.0,0.0,0.0
+11-04-2024,Printer,5,22.14,Cash,Returned,10,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+11-04-2024,Chair,4,512.06,Online,Delivered,5,SAVE10,Google,2048.24,204.82399999999998,0.0,0.0,1843.4159999999997
+11-04-2025,Tablet,5,133.01,Credit Card,Returned,10,FREESHIP,Facebook,665.05,0.0,0.0,665.05,0.0
+11-05-2023,Chair,1,583.99,Cash,Cancelled,2,SAVE10,Email,583.99,58.398999999999994,0.0,0.0,0.0
+11-05-2023,Monitor,3,478.65,Online,Shipped,4,SAVE10,Referral,1435.95,143.595,0.0,0.0,0.0
+11-06-2023,Chair,4,418.71,Cash,Pending,8,FREESHIP,Instagram,1674.84,0.0,0.0,1674.84,0.0
+11-06-2023,Tablet,4,560.58,Gift Card,Returned,6,SAVE10,Referral,2242.32,224.232,0.0,0.0,0.0
+11-06-2023,Chair,4,435.12,Credit Card,Delivered,9,SAVE10,Instagram,1740.48,174.048,0.0,0.0,1566.432
+11-06-2023,Printer,2,434.97,Online,Shipped,7,SAVE10,Email,869.94,86.99400000000001,0.0,0.0,0.0
+11-06-2024,Laptop,4,340.3,Cash,Cancelled,8,SAVE10,Referral,1361.2,136.12,0.0,0.0,0.0
+11-06-2024,Laptop,3,306.29,Credit Card,Returned,7,WINTER15,Instagram,918.87,0.0,137.8305,0.0,0.0
+11-06-2025,Desk,2,534.67,Debit Card,Shipped,7,FREESHIP,Referral,1069.34,0.0,0.0,1069.34,0.0
+11-06-2025,Monitor,2,464.5,Online,Cancelled,2,WINTER15,Instagram,929.0,0.0,139.35,0.0,0.0
+11-06-2025,Monitor,3,198.63,Cash,Pending,8,SAVE10,Instagram,595.89,59.589,0.0,0.0,0.0
+11-07-2023,Phone,1,693.41,Debit Card,Shipped,4,SAVE10,Instagram,693.41,69.341,0.0,0.0,0.0
+11-08-2023,Desk,1,645.46,Gift Card,Cancelled,5,SAVE10,Google,645.46,64.546,0.0,0.0,0.0
+11-08-2023,Phone,2,423.88,Debit Card,Delivered,7,SAVE10,Referral,847.76,84.77600000000001,0.0,0.0,762.9839999999999
+11-08-2023,Laptop,3,439.53,Debit Card,Pending,5,SAVE10,Google,1318.59,131.859,0.0,0.0,0.0
+11-08-2024,Monitor,2,493.63,Online,Returned,6,SAVE10,Referral,987.26,98.726,0.0,0.0,0.0
+11-09-2023,Tablet,1,531.74,Online,Shipped,1,WINTER15,Google,531.74,0.0,79.76100000000001,0.0,0.0
+11-09-2024,Chair,4,593.27,Online,Shipped,5,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+11-09-2024,Phone,4,692.91,Credit Card,Pending,9,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+11-10-2024,Tablet,4,362.06,Debit Card,Returned,4,SAVE10,Facebook,1448.24,144.82399999999998,0.0,0.0,0.0
+11-11-2023,Monitor,3,654.54,Cash,Returned,7,SAVE10,Referral,1963.62,196.36199999999997,0.0,0.0,0.0
+11-11-2023,Printer,1,70.32,Cash,Returned,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+11-11-2024,Laptop,1,627.34,Online,Delivered,1,SAVE10,Referral,627.34,62.73400000000001,0.0,0.0,564.606
+11-11-2024,Phone,1,601.36,Online,Shipped,1,SAVE10,Facebook,601.36,60.136,0.0,0.0,0.0
+11-12-2023,Laptop,3,379.07,Gift Card,Pending,3,WINTER15,Google,1137.21,0.0,170.5815,0.0,0.0
+11-12-2023,Printer,3,448.9,Debit Card,Returned,7,SAVE10,Instagram,1346.7,134.67,0.0,0.0,0.0
+11-12-2023,Chair,3,490.92,Credit Card,Pending,5,FREESHIP,Email,1472.76,0.0,0.0,1472.76,0.0
+11-12-2024,Chair,4,147.51,Debit Card,Pending,4,WINTER15,Instagram,590.04,0.0,88.50599999999999,0.0,0.0
+11-12-2024,Tablet,3,538.74,Online,Shipped,6,FREESHIP,Email,1616.22,0.0,0.0,1616.22,0.0
+11-12-2024,Tablet,4,190.64,Cash,Delivered,5,SAVE10,Email,762.56,76.256,0.0,0.0,686.304
+12-01-2023,Monitor,5,643.89,Cash,Returned,8,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+12-01-2024,Chair,4,56.66,Online,Delivered,4,SAVE10,Instagram,226.64,22.663999999999998,0.0,0.0,203.976
+12-02-2025,Laptop,4,198.81,Cash,Returned,9,FREESHIP,Referral,795.24,0.0,0.0,795.24,0.0
+12-03-2023,Laptop,4,512.75,Debit Card,Returned,8,WINTER15,Google,2051.0,0.0,307.65,0.0,0.0
+12-03-2023,Chair,2,194.85,Gift Card,Returned,5,WINTER15,Referral,389.7,0.0,58.455,0.0,0.0
+12-03-2023,Chair,1,372.8,Cash,Cancelled,6,SAVE10,Facebook,372.8,37.28,0.0,0.0,0.0
+12-03-2024,Chair,5,485.71,Online,Pending,10,SAVE10,Referral,2332.082,233.2082,0.0,0.0,0.0
+12-03-2025,Tablet,2,259.58,Debit Card,Delivered,7,FREESHIP,Instagram,519.16,0.0,0.0,519.16,0.0
+12-03-2025,Laptop,4,233.7,Online,Shipped,8,SAVE10,Facebook,934.8,93.48,0.0,0.0,0.0
+12-03-2025,Tablet,2,428.09,Credit Card,Returned,6,SAVE10,Instagram,856.18,85.618,0.0,0.0,0.0
+12-03-2025,Monitor,1,176.58,Debit Card,Returned,4,WINTER15,Referral,176.58,0.0,26.487000000000002,0.0,0.0
+12-04-2023,Chair,5,22.94,Cash,Pending,10,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+12-04-2025,Printer,1,201.58,Debit Card,Cancelled,2,WINTER15,Email,201.58,0.0,30.237000000000002,0.0,0.0
+12-05-2023,Monitor,5,149.55,Cash,Shipped,9,FREESHIP,Facebook,747.75,0.0,0.0,747.75,0.0
+12-05-2024,Phone,2,345.01,Credit Card,Delivered,6,FREESHIP,Google,690.02,0.0,0.0,690.02,0.0
+12-05-2024,Desk,3,136.84,Cash,Delivered,3,SAVE10,Facebook,410.52,41.052,0.0,0.0,369.46799999999996
+12-05-2025,Desk,3,571.53,Debit Card,Delivered,6,FREESHIP,Facebook,1714.59,0.0,0.0,1714.59,0.0
+12-05-2025,Tablet,5,91.67,Online,Cancelled,9,FREESHIP,Email,458.35,0.0,0.0,458.35,0.0
+12-06-2023,Tablet,3,382.37,Debit Card,Returned,8,FREESHIP,Instagram,1147.11,0.0,0.0,1147.11,0.0
+12-06-2023,Monitor,5,514.6,Gift Card,Delivered,10,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+12-06-2023,Desk,3,606.41,Debit Card,Returned,7,FREESHIP,Facebook,1819.23,0.0,0.0,1819.23,0.0
+12-06-2024,Phone,3,692.44,Debit Card,Cancelled,8,FREESHIP,Google,2077.32,0.0,0.0,2077.32,0.0
+12-06-2024,Tablet,2,461.37,Cash,Delivered,5,SAVE10,Google,922.74,92.274,0.0,0.0,830.466
+12-07-2023,Chair,3,331.46,Credit Card,Cancelled,6,WINTER15,Referral,994.38,0.0,149.157,0.0,0.0
+12-07-2023,Tablet,1,17.24,Online,Pending,2,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+12-07-2023,Tablet,4,132.56,Cash,Returned,8,WINTER15,Instagram,530.24,0.0,79.536,0.0,0.0
+12-07-2024,Monitor,1,24.48,Gift Card,Returned,1,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+12-11-2023,Laptop,4,506.11,Cash,Cancelled,5,SAVE10,Referral,2024.44,202.44400000000002,0.0,0.0,0.0
+12-11-2024,Chair,3,646.34,Debit Card,Pending,5,SAVE10,Google,1939.02,193.90200000000002,0.0,0.0,0.0
+12-12-2023,Laptop,1,365.57,Online,Cancelled,5,SAVE10,Email,365.57,36.556999999999995,0.0,0.0,0.0
+12-12-2023,Laptop,1,132.68,Debit Card,Returned,1,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+13-01-2023,Monitor,3,410.88,Cash,Delivered,8,FREESHIP,Instagram,1232.64,0.0,0.0,1232.64,0.0
+13-01-2024,Chair,4,409.28,Cash,Pending,8,SAVE10,Email,1637.12,163.712,0.0,0.0,0.0
+13-02-2024,Desk,3,134.05,Credit Card,Shipped,3,SAVE10,Google,402.15,40.215,0.0,0.0,0.0
+13-03-2024,Phone,3,273.96,Debit Card,Returned,8,SAVE10,Google,821.88,82.18799999999999,0.0,0.0,0.0
+13-03-2024,Laptop,3,359.73,Debit Card,Returned,7,FREESHIP,Email,1079.19,0.0,0.0,1079.19,0.0
+13-03-2024,Desk,2,184.6,Gift Card,Delivered,7,WINTER15,Email,369.2,0.0,55.38,0.0,313.82
+13-04-2024,Tablet,2,143.82,Credit Card,Returned,6,SAVE10,Instagram,287.64,28.763999999999996,0.0,0.0,0.0
+13-04-2025,Laptop,1,518.39,Debit Card,Pending,4,FREESHIP,Instagram,518.39,0.0,0.0,518.39,0.0
+13-05-2023,Desk,3,158.66,Gift Card,Delivered,7,WINTER15,Email,475.98,0.0,71.397,0.0,404.583
+13-05-2024,Monitor,1,263.96,Gift Card,Returned,2,SAVE10,Google,263.96,26.396,0.0,0.0,0.0
+13-05-2025,Printer,5,561.48,Online,Delivered,9,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+13-05-2025,Desk,3,430.06,Gift Card,Cancelled,8,FREESHIP,Instagram,1290.18,0.0,0.0,1290.18,0.0
+13-06-2023,Desk,3,336.71,Credit Card,Pending,4,FREESHIP,Email,1010.13,0.0,0.0,1010.13,0.0
+13-06-2024,Tablet,3,70.93,Debit Card,Returned,5,FREESHIP,Referral,212.79,0.0,0.0,212.79,0.0
+13-06-2024,Chair,3,454.29,Credit Card,Pending,4,WINTER15,Google,1362.87,0.0,204.4305,0.0,0.0
+13-06-2024,Phone,4,386.73,Cash,Delivered,4,SAVE10,Facebook,1546.92,154.692,0.0,0.0,1392.228
+13-06-2024,Chair,4,400.07,Online,Shipped,5,FREESHIP,Referral,1600.28,0.0,0.0,1600.28,0.0
+13-06-2025,Printer,4,403.58,Online,Pending,9,SAVE10,Referral,1614.32,161.432,0.0,0.0,0.0
+13-06-2025,Laptop,3,372.6,Credit Card,Delivered,7,WINTER15,Referral,1117.8,0.0,167.67,0.0,950.13
+13-07-2023,Tablet,2,436.84,Online,Delivered,2,FREESHIP,Instagram,873.68,0.0,0.0,873.68,0.0
+13-07-2024,Monitor,4,180.25,Debit Card,Cancelled,7,SAVE10,Facebook,721.0,72.1,0.0,0.0,0.0
+13-08-2023,Tablet,2,213.83,Debit Card,Cancelled,2,WINTER15,Email,427.66,0.0,64.149,0.0,0.0
+13-08-2023,Tablet,4,547.32,Cash,Returned,8,FREESHIP,Instagram,2189.28,0.0,0.0,2189.28,0.0
+13-08-2023,Printer,4,534.57,Credit Card,Delivered,6,FREESHIP,Facebook,2138.28,0.0,0.0,2138.28,0.0
+13-08-2024,Desk,5,396.86,Cash,Cancelled,9,SAVE10,Instagram,1984.3,198.43,0.0,0.0,0.0
+13-09-2023,Tablet,1,332.09,Gift Card,Returned,5,FREESHIP,Instagram,332.09,0.0,0.0,332.09,0.0
+13-10-2023,Desk,1,356.81,Online,Delivered,1,WINTER15,Instagram,356.81,0.0,53.521499999999996,0.0,303.2885
+13-11-2023,Laptop,3,614.15,Gift Card,Cancelled,3,SAVE10,Facebook,1842.45,184.245,0.0,0.0,0.0
+13-12-2023,Printer,2,328.54,Gift Card,Returned,6,FREESHIP,Email,657.08,0.0,0.0,657.08,0.0
+13-12-2023,Printer,1,249.81,Cash,Pending,1,SAVE10,Google,249.81,24.980999999999998,0.0,0.0,0.0
+13-12-2023,Phone,2,105.57,Debit Card,Returned,5,WINTER15,Google,211.14,0.0,31.671,0.0,0.0
+13-12-2023,Chair,3,63.68,Cash,Returned,6,FREESHIP,Facebook,191.04,0.0,0.0,191.04,0.0
+13-12-2024,Desk,4,384.32,Credit Card,Pending,6,WINTER15,Google,1537.28,0.0,230.592,0.0,0.0
+14-01-2023,Tablet,4,145.41,Credit Card,Returned,7,FREESHIP,Email,581.64,0.0,0.0,581.64,0.0
+14-01-2023,Desk,4,431.01,Credit Card,Returned,7,FREESHIP,Referral,1724.04,0.0,0.0,1724.04,0.0
+14-01-2023,Printer,2,228.54,Debit Card,Pending,3,FREESHIP,Email,457.08,0.0,0.0,457.08,0.0
+14-01-2024,Chair,3,411.95,Credit Card,Delivered,7,FREESHIP,Referral,1235.85,0.0,0.0,1235.85,0.0
+14-02-2023,Laptop,4,64.69,Debit Card,Shipped,7,WINTER15,Google,258.76,0.0,38.81399999999999,0.0,0.0
+14-02-2025,Chair,3,483.53,Cash,Returned,4,SAVE10,Referral,1450.59,145.059,0.0,0.0,0.0
+14-02-2025,Phone,1,678.38,Credit Card,Cancelled,4,SAVE10,Referral,678.38,67.83800000000001,0.0,0.0,0.0
+14-03-2023,Phone,3,553.52,Gift Card,Shipped,4,FREESHIP,Facebook,1660.56,0.0,0.0,1660.56,0.0
+14-03-2023,Tablet,4,434.42,Online,Cancelled,6,FREESHIP,Google,1737.68,0.0,0.0,1737.68,0.0
+14-03-2023,Chair,2,132.6,Debit Card,Cancelled,4,WINTER15,Email,265.2,0.0,39.78,0.0,0.0
+14-03-2024,Monitor,3,583.72,Credit Card,Shipped,5,FREESHIP,Facebook,1751.16,0.0,0.0,1751.16,0.0
+14-03-2025,Printer,3,201.21,Online,Cancelled,3,SAVE10,Google,603.63,60.363,0.0,0.0,0.0
+14-03-2025,Phone,5,78.29,Credit Card,Shipped,5,WINTER15,Referral,391.45,0.0,58.7175,0.0,0.0
+14-04-2023,Tablet,3,554.25,Debit Card,Shipped,6,WINTER15,Referral,1662.75,0.0,249.4125,0.0,0.0
+14-05-2023,Tablet,5,307.98,Online,Pending,10,WINTER15,Facebook,1539.9,0.0,230.985,0.0,0.0
+14-05-2024,Chair,2,69.64,Cash,Returned,6,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,0.0
+14-05-2025,Phone,1,558.27,Online,Delivered,1,FREESHIP,Referral,558.27,0.0,0.0,558.27,0.0
+14-06-2024,Phone,5,231.82,Debit Card,Delivered,6,SAVE10,Facebook,1159.1,115.91,0.0,0.0,1043.1899999999998
+14-06-2024,Phone,2,486.35,Online,Pending,6,SAVE10,Referral,972.7,97.27,0.0,0.0,0.0
+14-06-2025,Chair,2,420.29,Gift Card,Returned,3,SAVE10,Google,840.58,84.058,0.0,0.0,0.0
+14-06-2025,Chair,5,655.55,Online,Delivered,5,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+14-07-2023,Printer,5,508.69,Cash,Delivered,10,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+14-07-2023,Chair,3,223.79,Debit Card,Pending,3,FREESHIP,Google,671.37,0.0,0.0,671.37,0.0
+14-07-2024,Printer,1,75.01,Credit Card,Returned,3,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+14-09-2024,Laptop,4,417.89,Gift Card,Pending,4,WINTER15,Google,1671.56,0.0,250.73399999999998,0.0,0.0
+14-09-2024,Monitor,2,500.29,Online,Returned,7,WINTER15,Google,1000.58,0.0,150.08700000000002,0.0,0.0
+14-10-2023,Chair,3,69.65,Cash,Delivered,7,WINTER15,Instagram,208.95,0.0,31.3425,0.0,177.6075
+14-10-2023,Printer,2,531.49,Credit Card,Delivered,7,WINTER15,Facebook,1062.98,0.0,159.447,0.0,903.533
+14-10-2024,Laptop,2,76.74,Cash,Returned,7,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+14-11-2023,Tablet,1,17.98,Cash,Cancelled,6,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+14-11-2023,Monitor,2,255.99,Credit Card,Delivered,4,SAVE10,Instagram,511.98,51.198,0.0,0.0,460.78200000000004
+14-12-2023,Chair,3,499.21,Online,Cancelled,8,SAVE10,Instagram,1497.63,149.763,0.0,0.0,0.0
+14-12-2024,Laptop,4,174.49,Credit Card,Delivered,5,SAVE10,Facebook,697.96,69.796,0.0,0.0,628.164
+15-01-2023,Phone,4,474.69,Gift Card,Cancelled,6,SAVE10,Google,1898.76,189.87599999999998,0.0,0.0,0.0
+15-01-2024,Monitor,5,615.1,Gift Card,Returned,10,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+15-01-2024,Phone,2,513.59,Online,Returned,4,FREESHIP,Referral,1027.18,0.0,0.0,1027.18,0.0
+15-01-2025,Monitor,1,65.95,Credit Card,Delivered,5,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+15-02-2023,Laptop,2,425.03,Cash,Returned,2,WINTER15,Google,850.06,0.0,127.509,0.0,0.0
+15-02-2025,Laptop,1,64.66,Debit Card,Delivered,4,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+15-03-2023,Laptop,5,492.75,Cash,Shipped,6,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+15-03-2024,Monitor,5,575.24,Cash,Delivered,7,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+15-03-2025,Laptop,5,292.54,Debit Card,Cancelled,8,FREESHIP,Email,1462.7,0.0,0.0,1462.7,0.0
+15-03-2025,Phone,1,479.56,Gift Card,Returned,1,SAVE10,Google,479.56,47.956,0.0,0.0,0.0
+15-03-2025,Tablet,3,362.53,Debit Card,Returned,5,SAVE10,Facebook,1087.59,108.759,0.0,0.0,0.0
+15-03-2025,Tablet,2,599.74,Gift Card,Shipped,2,SAVE10,Instagram,1199.48,119.948,0.0,0.0,0.0
+15-03-2025,Printer,3,602.75,Credit Card,Shipped,6,SAVE10,Email,1808.25,180.825,0.0,0.0,0.0
+15-03-2025,Chair,2,363.91,Gift Card,Shipped,2,FREESHIP,Referral,727.82,0.0,0.0,727.82,0.0
+15-04-2023,Printer,3,422.13,Online,Delivered,7,SAVE10,Facebook,1266.39,126.63900000000001,0.0,0.0,1139.7510000000002
+15-04-2024,Desk,3,157.4,Debit Card,Cancelled,7,WINTER15,Email,472.2,0.0,70.83,0.0,0.0
+15-04-2024,Laptop,2,533.02,Gift Card,Shipped,2,SAVE10,Facebook,1066.04,106.604,0.0,0.0,0.0
+15-04-2024,Monitor,1,72.6,Debit Card,Cancelled,6,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+15-04-2024,Chair,5,170.22,Debit Card,Delivered,8,FREESHIP,Referral,851.1,0.0,0.0,851.1,0.0
+15-04-2025,Monitor,4,496.0,Online,Cancelled,8,WINTER15,Google,1984.0,0.0,297.6,0.0,0.0
+15-04-2025,Chair,3,20.54,Credit Card,Cancelled,3,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+15-05-2024,Chair,1,595.54,Gift Card,Shipped,4,SAVE10,Instagram,595.54,59.553999999999995,0.0,0.0,0.0
+15-05-2025,Monitor,4,14.69,Cash,Cancelled,9,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+15-06-2023,Chair,5,50.74,Gift Card,Cancelled,7,WINTER15,Google,253.7,0.0,38.055,0.0,0.0
+15-06-2025,Chair,3,154.37,Gift Card,Delivered,4,SAVE10,Instagram,463.11,46.31100000000001,0.0,0.0,416.799
+15-07-2024,Tablet,3,70.81,Credit Card,Shipped,8,FREESHIP,Referral,212.43,0.0,0.0,212.43,0.0
+15-08-2023,Tablet,2,148.22,Credit Card,Delivered,7,WINTER15,Instagram,296.44,0.0,44.466,0.0,251.974
+15-09-2024,Phone,2,496.62,Online,Pending,2,SAVE10,Instagram,993.24,99.324,0.0,0.0,0.0
+15-10-2023,Chair,1,273.19,Debit Card,Returned,5,SAVE10,Facebook,273.19,27.319000000000003,0.0,0.0,0.0
+15-10-2023,Chair,2,288.21,Debit Card,Cancelled,5,SAVE10,Email,576.42,57.641999999999996,0.0,0.0,0.0
+15-10-2023,Tablet,4,578.27,Online,Delivered,9,WINTER15,Email,2313.08,0.0,346.962,0.0,1966.118
+15-10-2024,Laptop,5,472.01,Gift Card,Cancelled,10,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+15-10-2024,Monitor,2,180.5,Debit Card,Pending,6,FREESHIP,Referral,361.0,0.0,0.0,361.0,0.0
+15-11-2023,Tablet,1,536.07,Debit Card,Delivered,5,FREESHIP,Google,536.07,0.0,0.0,536.07,0.0
+15-11-2023,Chair,2,366.23,Cash,Shipped,2,WINTER15,Email,732.46,0.0,109.86900000000001,0.0,0.0
+15-11-2023,Printer,3,229.34,Credit Card,Shipped,6,SAVE10,Referral,688.02,68.80199999999999,0.0,0.0,0.0
+15-11-2024,Printer,1,95.1,Gift Card,Pending,1,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+15-11-2024,Chair,5,127.18,Cash,Cancelled,9,SAVE10,Referral,635.9,63.59,0.0,0.0,0.0
+15-12-2024,Phone,2,319.91,Credit Card,Cancelled,3,WINTER15,Google,639.82,0.0,95.97300000000001,0.0,0.0
+16-01-2024,Tablet,5,341.96,Debit Card,Delivered,6,FREESHIP,Email,1709.8,0.0,0.0,1709.8,0.0
+16-01-2024,Chair,2,298.53,Debit Card,Cancelled,5,WINTER15,Email,597.06,0.0,89.559,0.0,0.0
+16-01-2025,Laptop,2,527.46,Debit Card,Cancelled,3,FREESHIP,Referral,1054.92,0.0,0.0,1054.92,0.0
+16-01-2025,Monitor,4,95.03,Online,Shipped,8,FREESHIP,Facebook,380.12,0.0,0.0,380.12,0.0
+16-02-2023,Printer,5,475.95,Credit Card,Returned,8,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+16-02-2023,Tablet,4,463.04,Gift Card,Returned,9,SAVE10,Instagram,1852.16,185.216,0.0,0.0,0.0
+16-02-2023,Laptop,5,208.17,Credit Card,Returned,6,SAVE10,Facebook,1040.85,104.085,0.0,0.0,0.0
+16-02-2023,Desk,5,507.94,Online,Cancelled,9,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+16-02-2023,Desk,2,317.77,Debit Card,Cancelled,4,WINTER15,Facebook,635.54,0.0,95.33099999999999,0.0,0.0
+16-02-2024,Laptop,4,502.99,Debit Card,Shipped,4,WINTER15,Referral,2011.96,0.0,301.79400000000004,0.0,0.0
+16-02-2025,Laptop,2,323.45,Credit Card,Returned,5,FREESHIP,Instagram,646.9,0.0,0.0,646.9,0.0
+16-02-2025,Chair,3,498.66,Cash,Cancelled,6,FREESHIP,Email,1495.98,0.0,0.0,1495.98,0.0
+16-03-2023,Tablet,3,659.88,Gift Card,Cancelled,3,WINTER15,Google,1979.64,0.0,296.946,0.0,0.0
+16-03-2025,Monitor,5,57.45,Cash,Cancelled,10,SAVE10,Facebook,287.25,28.725,0.0,0.0,0.0
+16-04-2023,Printer,3,304.15,Gift Card,Shipped,3,WINTER15,Instagram,912.45,0.0,136.8675,0.0,0.0
+16-04-2023,Laptop,4,328.56,Debit Card,Returned,4,FREESHIP,Email,1314.24,0.0,0.0,1314.24,0.0
+16-04-2024,Laptop,4,229.1,Gift Card,Returned,8,WINTER15,Email,916.4,0.0,137.46,0.0,0.0
+16-04-2024,Printer,4,600.81,Debit Card,Delivered,9,SAVE10,Email,2332.082,233.2082,0.0,0.0,2098.8738
+16-04-2024,Phone,1,198.51,Credit Card,Returned,5,WINTER15,Instagram,198.51,0.0,29.776499999999995,0.0,0.0
+16-04-2025,Laptop,2,521.4,Cash,Delivered,7,SAVE10,Instagram,1042.8,104.28,0.0,0.0,938.52
+16-05-2023,Chair,3,468.74,Cash,Pending,4,FREESHIP,Instagram,1406.22,0.0,0.0,1406.22,0.0
+16-05-2023,Chair,5,615.67,Online,Pending,6,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+16-05-2024,Tablet,3,324.3,Debit Card,Pending,8,FREESHIP,Email,972.9,0.0,0.0,972.9,0.0
+16-05-2024,Tablet,1,331.06,Credit Card,Pending,5,WINTER15,Instagram,331.06,0.0,49.659,0.0,0.0
+16-05-2025,Laptop,1,325.81,Credit Card,Pending,1,WINTER15,Referral,325.81,0.0,48.8715,0.0,0.0
+16-06-2023,Desk,2,356.35,Debit Card,Returned,6,WINTER15,Facebook,712.7,0.0,106.905,0.0,0.0
+16-06-2023,Chair,1,335.1,Debit Card,Pending,6,FREESHIP,Referral,335.1,0.0,0.0,335.1,0.0
+16-06-2023,Printer,3,396.0,Gift Card,Cancelled,4,FREESHIP,Instagram,1188.0,0.0,0.0,1188.0,0.0
+16-06-2024,Printer,4,517.98,Cash,Cancelled,8,FREESHIP,Facebook,2071.92,0.0,0.0,2071.92,0.0
+16-06-2024,Desk,5,389.62,Cash,Returned,7,FREESHIP,Facebook,1948.1,0.0,0.0,1948.1,0.0
+16-06-2025,Tablet,1,687.89,Cash,Returned,1,FREESHIP,Email,687.89,0.0,0.0,687.89,0.0
+16-07-2024,Laptop,1,532.89,Gift Card,Pending,2,WINTER15,Referral,532.89,0.0,79.9335,0.0,0.0
+16-07-2024,Phone,4,628.12,Online,Delivered,6,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+16-09-2024,Monitor,1,571.9,Gift Card,Pending,1,WINTER15,Instagram,571.9,0.0,85.785,0.0,0.0
+16-10-2023,Desk,4,408.36,Gift Card,Cancelled,4,FREESHIP,Referral,1633.44,0.0,0.0,1633.44,0.0
+16-10-2023,Printer,3,490.01,Cash,Returned,4,SAVE10,Facebook,1470.03,147.003,0.0,0.0,0.0
+16-10-2023,Phone,1,11.39,Cash,Cancelled,6,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+16-10-2023,Chair,3,122.11,Online,Delivered,4,WINTER15,Email,366.33,0.0,54.9495,0.0,311.3805
+16-10-2024,Tablet,2,536.25,Debit Card,Pending,3,SAVE10,Email,1072.5,107.25,0.0,0.0,0.0
+16-12-2023,Desk,4,61.91,Gift Card,Delivered,6,WINTER15,Email,247.64,0.0,37.146,0.0,210.49399999999997
+16-12-2024,Phone,2,456.04,Debit Card,Returned,4,FREESHIP,Email,912.08,0.0,0.0,912.08,0.0
+16-12-2024,Printer,1,376.76,Debit Card,Delivered,5,SAVE10,Email,376.76,37.676,0.0,0.0,339.084
+16-12-2024,Monitor,4,696.71,Debit Card,Shipped,4,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+16-12-2024,Laptop,2,426.22,Online,Delivered,7,WINTER15,Google,852.44,0.0,127.866,0.0,724.5740000000001
+17-01-2024,Laptop,5,190.08,Cash,Shipped,9,FREESHIP,Instagram,950.4,0.0,0.0,950.4,0.0
+17-02-2023,Phone,3,664.79,Online,Delivered,6,WINTER15,Facebook,1994.37,0.0,299.1555,0.0,1695.2144999999998
+17-02-2023,Monitor,4,101.32,Cash,Pending,7,FREESHIP,Referral,405.28,0.0,0.0,405.28,0.0
+17-02-2023,Desk,4,440.31,Cash,Cancelled,6,FREESHIP,Instagram,1761.24,0.0,0.0,1761.24,0.0
+17-02-2023,Tablet,4,21.07,Gift Card,Delivered,4,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+17-02-2024,Chair,5,644.64,Gift Card,Cancelled,6,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+17-02-2024,Monitor,3,49.14,Online,Returned,7,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+17-03-2024,Desk,2,533.95,Online,Delivered,5,WINTER15,Google,1067.9,0.0,160.18500000000003,0.0,907.715
+17-03-2024,Desk,4,221.96,Cash,Delivered,7,WINTER15,Google,887.84,0.0,133.17600000000002,0.0,754.664
+17-04-2024,Tablet,2,216.66,Debit Card,Pending,6,FREESHIP,Instagram,433.32,0.0,0.0,433.32,0.0
+17-04-2025,Chair,5,468.51,Debit Card,Delivered,9,SAVE10,Facebook,2332.082,233.2082,0.0,0.0,2098.8738
+17-05-2023,Monitor,3,473.49,Credit Card,Pending,7,FREESHIP,Email,1420.47,0.0,0.0,1420.47,0.0
+17-05-2023,Monitor,2,407.79,Debit Card,Shipped,3,FREESHIP,Google,815.58,0.0,0.0,815.58,0.0
+17-05-2023,Chair,4,385.92,Credit Card,Cancelled,8,FREESHIP,Instagram,1543.68,0.0,0.0,1543.68,0.0
+17-05-2025,Desk,5,489.37,Online,Returned,8,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+17-05-2025,Chair,1,23.53,Gift Card,Delivered,2,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+17-06-2023,Monitor,4,255.86,Credit Card,Delivered,7,WINTER15,Email,1023.44,0.0,153.516,0.0,869.9240000000001
+17-06-2024,Desk,2,563.82,Credit Card,Pending,3,FREESHIP,Instagram,1127.64,0.0,0.0,1127.64,0.0
+17-06-2025,Laptop,1,664.42,Gift Card,Returned,6,SAVE10,Facebook,664.42,66.442,0.0,0.0,0.0
+17-07-2023,Printer,1,473.96,Cash,Delivered,3,FREESHIP,Google,473.96,0.0,0.0,473.96,0.0
+17-07-2023,Printer,5,111.7,Credit Card,Cancelled,9,FREESHIP,Email,558.5,0.0,0.0,558.5,0.0
+17-08-2023,Tablet,5,691.28,Online,Delivered,10,SAVE10,Email,2332.082,233.2082,0.0,0.0,2098.8738
+17-08-2023,Laptop,5,38.11,Debit Card,Cancelled,6,WINTER15,Instagram,190.55,0.0,28.5825,0.0,0.0
+17-08-2023,Monitor,3,646.79,Cash,Cancelled,5,WINTER15,Google,1940.37,0.0,291.0555,0.0,0.0
+17-08-2024,Tablet,5,389.22,Cash,Cancelled,7,SAVE10,Referral,1946.1,194.61,0.0,0.0,0.0
+17-09-2023,Desk,3,592.87,Gift Card,Shipped,3,FREESHIP,Referral,1778.61,0.0,0.0,1778.61,0.0
+17-09-2024,Phone,3,76.96,Cash,Returned,8,FREESHIP,Email,230.88,0.0,0.0,230.88,0.0
+17-10-2023,Printer,2,92.87,Credit Card,Pending,5,FREESHIP,Facebook,185.74,0.0,0.0,185.74,0.0
+17-10-2024,Tablet,3,601.6,Credit Card,Cancelled,7,SAVE10,Facebook,1804.8,180.48,0.0,0.0,0.0
+17-11-2024,Monitor,4,342.95,Cash,Delivered,6,WINTER15,Google,1371.8,0.0,205.77,0.0,1166.03
+17-12-2023,Desk,4,697.5,Cash,Shipped,7,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+18-01-2023,Phone,5,347.92,Cash,Pending,6,WINTER15,Google,1739.6,0.0,260.94,0.0,0.0
+18-01-2024,Tablet,2,518.23,Debit Card,Shipped,5,FREESHIP,Email,1036.46,0.0,0.0,1036.46,0.0
+18-01-2024,Monitor,2,189.06,Gift Card,Shipped,7,SAVE10,Facebook,378.12,37.812,0.0,0.0,0.0
+18-01-2025,Monitor,2,575.83,Online,Delivered,3,WINTER15,Referral,1151.66,0.0,172.74900000000002,0.0,978.9110000000001
+18-02-2023,Monitor,4,25.29,Credit Card,Pending,8,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+18-02-2025,Desk,1,39.56,Debit Card,Cancelled,5,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+18-02-2025,Desk,3,531.72,Gift Card,Delivered,7,SAVE10,Google,1595.16,159.516,0.0,0.0,1435.644
+18-02-2025,Desk,4,657.79,Credit Card,Returned,6,WINTER15,Google,2332.082,0.0,349.81229999999994,0.0,0.0
+18-03-2023,Tablet,5,316.07,Cash,Returned,10,WINTER15,Google,1580.35,0.0,237.0525,0.0,0.0
+18-03-2023,Desk,1,41.09,Online,Returned,4,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+18-03-2024,Desk,2,118.59,Credit Card,Delivered,2,WINTER15,Email,237.18,0.0,35.577000000000005,0.0,201.603
+18-03-2025,Phone,1,121.96,Debit Card,Delivered,3,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+18-04-2024,Phone,4,162.71,Cash,Cancelled,7,FREESHIP,Email,650.84,0.0,0.0,650.84,0.0
+18-04-2024,Phone,1,512.39,Online,Delivered,2,FREESHIP,Instagram,512.39,0.0,0.0,512.39,0.0
+18-04-2024,Monitor,5,186.28,Debit Card,Delivered,8,SAVE10,Email,931.4,93.14,0.0,0.0,838.26
+18-04-2024,Desk,4,539.2,Credit Card,Pending,8,FREESHIP,Google,2156.8,0.0,0.0,2156.8,0.0
+18-04-2025,Tablet,2,323.22,Credit Card,Delivered,7,SAVE10,Instagram,646.44,64.644,0.0,0.0,581.796
+18-04-2025,Printer,2,46.36,Gift Card,Returned,4,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+18-05-2023,Desk,2,372.23,Gift Card,Delivered,7,SAVE10,Email,744.46,74.446,0.0,0.0,670.014
+18-05-2023,Desk,1,105.92,Gift Card,Returned,6,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+18-05-2023,Laptop,1,120.98,Debit Card,Delivered,6,WINTER15,Email,165.012,0.0,24.7518,0.0,140.2602
+18-05-2024,Phone,4,488.78,Online,Returned,5,FREESHIP,Google,1955.12,0.0,0.0,1955.12,0.0
+18-05-2025,Desk,4,652.48,Cash,Pending,5,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+18-06-2023,Monitor,2,674.9,Online,Shipped,4,SAVE10,Facebook,1349.8,134.98,0.0,0.0,0.0
+18-06-2025,Laptop,4,578.28,Gift Card,Cancelled,5,FREESHIP,Email,2313.12,0.0,0.0,2313.12,0.0
+18-07-2023,Laptop,2,644.05,Gift Card,Cancelled,5,WINTER15,Referral,1288.1,0.0,193.215,0.0,0.0
+18-07-2023,Laptop,2,373.17,Credit Card,Pending,6,SAVE10,Referral,746.34,74.634,0.0,0.0,0.0
+18-07-2023,Phone,1,432.47,Cash,Delivered,4,FREESHIP,Referral,432.47,0.0,0.0,432.47,0.0
+18-07-2024,Desk,5,391.86,Credit Card,Shipped,6,WINTER15,Instagram,1959.3,0.0,293.895,0.0,0.0
+18-07-2024,Chair,4,89.41,Online,Pending,9,WINTER15,Google,357.64,0.0,53.645999999999994,0.0,0.0
+18-07-2024,Phone,1,694.5,Credit Card,Pending,3,WINTER15,Facebook,694.5,0.0,104.175,0.0,0.0
+18-09-2023,Chair,4,182.08,Gift Card,Delivered,4,SAVE10,Email,728.32,72.83200000000001,0.0,0.0,655.488
+18-10-2023,Laptop,5,509.58,Online,Delivered,6,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+18-10-2024,Monitor,5,408.73,Gift Card,Delivered,10,FREESHIP,Instagram,2043.65,0.0,0.0,2043.65,0.0
+18-10-2024,Printer,3,136.97,Credit Card,Returned,4,FREESHIP,Referral,410.91,0.0,0.0,410.91,0.0
+18-10-2024,Desk,3,147.29,Gift Card,Shipped,3,FREESHIP,Google,441.87,0.0,0.0,441.87,0.0
+18-11-2023,Printer,3,684.14,Cash,Cancelled,3,WINTER15,Instagram,2052.42,0.0,307.86300000000006,0.0,0.0
+18-11-2023,Monitor,2,113.29,Cash,Pending,5,SAVE10,Facebook,226.58,22.658,0.0,0.0,0.0
+18-11-2023,Monitor,1,163.32,Cash,Shipped,6,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+18-11-2024,Laptop,5,362.46,Cash,Delivered,6,FREESHIP,Instagram,1812.3,0.0,0.0,1812.3,0.0
+18-11-2024,Laptop,1,605.28,Gift Card,Shipped,3,FREESHIP,Referral,605.28,0.0,0.0,605.28,0.0
+18-11-2024,Printer,4,434.23,Online,Shipped,8,FREESHIP,Email,1736.92,0.0,0.0,1736.92,0.0
+18-12-2023,Printer,2,88.73,Online,Pending,5,FREESHIP,Google,177.46,0.0,0.0,177.46,0.0
+18-12-2023,Desk,4,294.41,Debit Card,Pending,4,FREESHIP,Instagram,1177.64,0.0,0.0,1177.64,0.0
+18-12-2024,Chair,4,534.48,Online,Returned,9,WINTER15,Instagram,2137.92,0.0,320.68800000000005,0.0,0.0
+18-12-2024,Desk,1,161.24,Credit Card,Pending,3,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+19-02-2024,Tablet,3,474.14,Gift Card,Shipped,8,WINTER15,Google,1422.42,0.0,213.36300000000003,0.0,0.0
+19-03-2023,Desk,4,209.99,Cash,Delivered,8,FREESHIP,Google,839.96,0.0,0.0,839.96,0.0
+19-03-2023,Printer,4,291.35,Credit Card,Cancelled,6,WINTER15,Facebook,1165.4,0.0,174.81,0.0,0.0
+19-03-2023,Desk,5,330.45,Gift Card,Shipped,10,FREESHIP,Google,1652.25,0.0,0.0,1652.25,0.0
+19-03-2025,Desk,1,600.54,Debit Card,Pending,4,WINTER15,Google,600.54,0.0,90.08099999999999,0.0,0.0
+19-04-2025,Desk,5,551.27,Online,Cancelled,7,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+19-04-2025,Tablet,2,438.62,Cash,Cancelled,3,SAVE10,Facebook,877.24,87.72399999999999,0.0,0.0,0.0
+19-05-2023,Phone,2,183.67,Debit Card,Cancelled,6,SAVE10,Google,367.34,36.733999999999995,0.0,0.0,0.0
+19-05-2023,Printer,4,444.44,Debit Card,Cancelled,8,WINTER15,Google,1777.76,0.0,266.664,0.0,0.0
+19-05-2025,Phone,5,488.35,Debit Card,Returned,9,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+19-06-2024,Desk,2,320.68,Credit Card,Shipped,5,FREESHIP,Referral,641.36,0.0,0.0,641.36,0.0
+19-06-2024,Desk,2,39.51,Online,Shipped,5,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+19-06-2024,Desk,5,638.8,Debit Card,Cancelled,10,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+19-06-2024,Printer,5,643.03,Online,Cancelled,5,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+19-06-2025,Tablet,4,699.88,Cash,Pending,5,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+19-07-2023,Laptop,4,690.78,Credit Card,Shipped,9,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+19-07-2023,Desk,2,209.94,Credit Card,Returned,3,FREESHIP,Email,419.88,0.0,0.0,419.88,0.0
+19-07-2023,Laptop,3,505.79,Debit Card,Pending,3,FREESHIP,Referral,1517.37,0.0,0.0,1517.37,0.0
+19-08-2024,Chair,5,653.47,Credit Card,Cancelled,10,SAVE10,Referral,2332.082,233.2082,0.0,0.0,0.0
+19-09-2023,Chair,2,399.32,Online,Pending,6,WINTER15,Instagram,798.64,0.0,119.796,0.0,0.0
+19-09-2024,Laptop,2,125.23,Cash,Cancelled,3,FREESHIP,Email,250.46,0.0,0.0,250.46,0.0
+19-09-2024,Printer,2,443.22,Credit Card,Delivered,5,FREESHIP,Facebook,886.44,0.0,0.0,886.44,0.0
+19-10-2024,Chair,2,651.57,Debit Card,Shipped,7,WINTER15,Facebook,1303.14,0.0,195.47100000000003,0.0,0.0
+19-11-2023,Phone,2,418.26,Debit Card,Pending,2,SAVE10,Google,836.52,83.652,0.0,0.0,0.0
+19-11-2023,Printer,3,189.44,Cash,Pending,4,FREESHIP,Email,568.32,0.0,0.0,568.32,0.0
+19-12-2023,Monitor,2,98.47,Cash,Returned,3,FREESHIP,Instagram,196.94,0.0,0.0,196.94,0.0
+19-12-2023,Printer,4,301.17,Online,Cancelled,6,FREESHIP,Email,1204.68,0.0,0.0,1204.68,0.0
+19-12-2024,Laptop,4,194.75,Cash,Shipped,5,WINTER15,Facebook,779.0,0.0,116.85,0.0,0.0
+19-12-2024,Laptop,1,245.89,Debit Card,Delivered,3,SAVE10,Google,245.89,24.588999999999995,0.0,0.0,221.301
+19-12-2024,Chair,3,171.66,Debit Card,Delivered,7,WINTER15,Google,514.98,0.0,77.24700000000001,0.0,437.733
+19-12-2024,Laptop,2,230.36,Online,Returned,4,WINTER15,Email,460.72,0.0,69.108,0.0,0.0
+19-12-2024,Printer,4,515.19,Credit Card,Pending,9,SAVE10,Facebook,2060.76,206.07600000000002,0.0,0.0,0.0
+19-12-2024,Printer,1,625.51,Credit Card,Shipped,1,FREESHIP,Facebook,625.51,0.0,0.0,625.51,0.0
+20-01-2023,Chair,4,393.8,Credit Card,Pending,7,SAVE10,Email,1575.2,157.52,0.0,0.0,0.0
+20-01-2023,Chair,1,529.19,Cash,Cancelled,5,SAVE10,Referral,529.19,52.919000000000004,0.0,0.0,0.0
+20-01-2023,Laptop,5,464.74,Gift Card,Delivered,7,SAVE10,Referral,2323.7,232.37,0.0,0.0,2091.33
+20-01-2024,Monitor,1,278.66,Gift Card,Cancelled,2,FREESHIP,Instagram,278.66,0.0,0.0,278.66,0.0
+20-01-2025,Laptop,5,383.82,Credit Card,Returned,7,FREESHIP,Google,1919.1,0.0,0.0,1919.1,0.0
+20-02-2023,Desk,4,302.65,Credit Card,Cancelled,8,SAVE10,Referral,1210.6,121.06,0.0,0.0,0.0
+20-02-2023,Desk,1,65.45,Cash,Pending,2,WINTER15,Google,165.012,0.0,24.7518,0.0,0.0
+20-03-2023,Laptop,1,634.94,Online,Cancelled,5,WINTER15,Instagram,634.94,0.0,95.241,0.0,0.0
+20-03-2024,Monitor,2,73.26,Cash,Pending,4,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+20-03-2024,Desk,1,26.95,Cash,Delivered,1,WINTER15,Email,165.012,0.0,24.7518,0.0,140.2602
+20-04-2023,Laptop,1,634.4,Cash,Cancelled,6,SAVE10,Email,634.4,63.44,0.0,0.0,0.0
+20-04-2023,Monitor,4,27.42,Debit Card,Pending,4,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+20-04-2023,Chair,1,618.68,Online,Delivered,6,WINTER15,Referral,618.68,0.0,92.80199999999999,0.0,525.8779999999999
+20-04-2024,Printer,4,331.9,Cash,Pending,5,SAVE10,Instagram,1327.6,132.76,0.0,0.0,0.0
+20-04-2024,Chair,1,515.32,Gift Card,Cancelled,1,FREESHIP,Email,515.32,0.0,0.0,515.32,0.0
+20-04-2025,Laptop,1,223.3,Online,Returned,1,SAVE10,Facebook,223.3,22.33,0.0,0.0,0.0
+20-05-2023,Monitor,3,565.25,Debit Card,Returned,7,SAVE10,Email,1695.75,169.575,0.0,0.0,0.0
+20-05-2024,Desk,4,321.51,Cash,Returned,9,FREESHIP,Google,1286.04,0.0,0.0,1286.04,0.0
+20-05-2024,Phone,1,14.06,Credit Card,Pending,5,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+20-05-2024,Chair,3,588.44,Gift Card,Shipped,8,WINTER15,Google,1765.32,0.0,264.798,0.0,0.0
+20-05-2025,Monitor,5,280.52,Credit Card,Cancelled,7,WINTER15,Facebook,1402.6,0.0,210.39,0.0,0.0
+20-06-2023,Monitor,1,265.38,Credit Card,Cancelled,6,WINTER15,Email,265.38,0.0,39.806999999999995,0.0,0.0
+20-06-2024,Phone,5,634.0,Gift Card,Delivered,8,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+20-06-2024,Desk,1,107.04,Credit Card,Cancelled,6,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+20-06-2025,Chair,4,302.05,Debit Card,Cancelled,6,SAVE10,Google,1208.2,120.82,0.0,0.0,0.0
+20-06-2025,Laptop,2,336.32,Online,Returned,3,SAVE10,Google,672.64,67.264,0.0,0.0,0.0
+20-07-2023,Phone,4,408.21,Credit Card,Pending,9,FREESHIP,Instagram,1632.84,0.0,0.0,1632.84,0.0
+20-07-2023,Printer,2,220.9,Gift Card,Shipped,4,FREESHIP,Email,441.8,0.0,0.0,441.8,0.0
+20-07-2024,Desk,1,243.71,Gift Card,Delivered,6,SAVE10,Google,243.71,24.371,0.0,0.0,219.339
+20-07-2024,Desk,2,377.47,Cash,Pending,7,WINTER15,Google,754.94,0.0,113.241,0.0,0.0
+20-07-2024,Printer,4,685.2,Gift Card,Cancelled,6,WINTER15,Google,2332.082,0.0,349.81229999999994,0.0,0.0
+20-08-2023,Laptop,5,69.7,Online,Returned,9,SAVE10,Instagram,348.5,34.85,0.0,0.0,0.0
+20-08-2023,Phone,5,364.42,Credit Card,Cancelled,10,SAVE10,Referral,1822.1,182.21,0.0,0.0,0.0
+20-08-2023,Desk,2,344.02,Online,Delivered,4,FREESHIP,Instagram,688.04,0.0,0.0,688.04,0.0
+20-08-2023,Tablet,5,276.44,Gift Card,Shipped,10,FREESHIP,Referral,1382.2,0.0,0.0,1382.2,0.0
+20-08-2023,Phone,1,613.98,Online,Delivered,4,FREESHIP,Facebook,613.98,0.0,0.0,613.98,0.0
+20-08-2023,Tablet,4,67.08,Cash,Returned,8,WINTER15,Google,268.32,0.0,40.248,0.0,0.0
+20-08-2023,Monitor,5,397.81,Debit Card,Returned,5,SAVE10,Referral,1989.05,198.905,0.0,0.0,0.0
+20-08-2023,Tablet,5,435.66,Online,Pending,9,SAVE10,Facebook,2178.3,217.83,0.0,0.0,0.0
+20-09-2024,Laptop,5,316.4,Gift Card,Returned,7,FREESHIP,Email,1582.0,0.0,0.0,1582.0,0.0
+20-09-2024,Desk,3,423.53,Credit Card,Delivered,6,SAVE10,Referral,1270.59,127.059,0.0,0.0,1143.531
+20-09-2024,Phone,4,668.36,Gift Card,Cancelled,5,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+20-10-2023,Chair,3,55.01,Online,Pending,7,WINTER15,Email,165.03,0.0,24.754499999999997,0.0,0.0
+20-11-2024,Laptop,4,115.77,Online,Pending,7,SAVE10,Instagram,463.08,46.308,0.0,0.0,0.0
+20-12-2023,Desk,1,355.09,Debit Card,Cancelled,5,SAVE10,Instagram,355.09,35.50899999999999,0.0,0.0,0.0
+20-12-2024,Monitor,5,502.47,Online,Shipped,10,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,0.0
+21-01-2024,Laptop,2,681.06,Debit Card,Shipped,3,FREESHIP,Facebook,1362.12,0.0,0.0,1362.12,0.0
+21-01-2025,Tablet,5,619.52,Debit Card,Pending,9,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+21-01-2025,Printer,3,356.84,Online,Shipped,5,SAVE10,Instagram,1070.52,107.052,0.0,0.0,0.0
+21-02-2023,Tablet,2,372.92,Credit Card,Delivered,7,SAVE10,Email,745.84,74.584,0.0,0.0,671.2560000000001
+21-02-2024,Tablet,5,574.79,Credit Card,Pending,8,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+21-02-2024,Phone,5,72.64,Credit Card,Cancelled,7,WINTER15,Email,363.2,0.0,54.48,0.0,0.0
+21-02-2025,Monitor,2,564.58,Online,Returned,4,WINTER15,Facebook,1129.16,0.0,169.37400000000002,0.0,0.0
+21-03-2023,Monitor,1,678.01,Cash,Pending,4,FREESHIP,Referral,678.01,0.0,0.0,678.01,0.0
+21-03-2025,Chair,4,145.05,Online,Delivered,6,SAVE10,Google,580.2,58.02,0.0,0.0,522.1800000000001
+21-03-2025,Chair,5,64.49,Online,Cancelled,7,SAVE10,Facebook,322.45,32.245,0.0,0.0,0.0
+21-04-2023,Desk,1,305.17,Gift Card,Returned,3,WINTER15,Referral,305.17,0.0,45.7755,0.0,0.0
+21-04-2023,Laptop,1,51.73,Debit Card,Pending,1,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+21-04-2023,Monitor,4,425.6,Credit Card,Pending,5,FREESHIP,Google,1702.4,0.0,0.0,1702.4,0.0
+21-04-2024,Tablet,1,220.77,Gift Card,Pending,5,FREESHIP,Instagram,220.77,0.0,0.0,220.77,0.0
+21-04-2025,Phone,2,550.18,Gift Card,Returned,3,FREESHIP,Referral,1100.36,0.0,0.0,1100.36,0.0
+21-05-2023,Printer,2,646.69,Debit Card,Shipped,7,WINTER15,Instagram,1293.38,0.0,194.007,0.0,0.0
+21-05-2023,Tablet,3,479.21,Cash,Cancelled,5,WINTER15,Referral,1437.63,0.0,215.6445,0.0,0.0
+21-05-2024,Laptop,4,554.83,Cash,Returned,6,WINTER15,Google,2219.32,0.0,332.898,0.0,0.0
+21-06-2023,Printer,5,260.93,Online,Delivered,9,SAVE10,Email,1304.65,130.465,0.0,0.0,1174.1850000000002
+21-06-2024,Phone,2,594.07,Gift Card,Cancelled,2,FREESHIP,Google,1188.14,0.0,0.0,1188.14,0.0
+21-06-2024,Printer,5,578.83,Cash,Returned,6,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+21-06-2025,Tablet,4,532.49,Online,Cancelled,6,SAVE10,Facebook,2129.96,212.99599999999998,0.0,0.0,0.0
+21-06-2025,Phone,1,418.36,Credit Card,Delivered,5,FREESHIP,Email,418.36,0.0,0.0,418.36,0.0
+21-07-2023,Printer,1,46.66,Cash,Cancelled,6,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+21-08-2023,Tablet,1,21.19,Cash,Returned,5,WINTER15,Google,165.012,0.0,24.7518,0.0,0.0
+21-08-2023,Laptop,5,209.2,Debit Card,Delivered,6,WINTER15,Email,1046.0,0.0,156.9,0.0,889.1
+21-08-2024,Desk,1,417.1,Debit Card,Returned,3,FREESHIP,Referral,417.1,0.0,0.0,417.1,0.0
+21-08-2024,Desk,4,305.72,Online,Delivered,5,FREESHIP,Facebook,1222.88,0.0,0.0,1222.88,0.0
+21-09-2023,Desk,5,128.95,Cash,Pending,10,FREESHIP,Instagram,644.75,0.0,0.0,644.75,0.0
+21-09-2024,Phone,3,297.67,Online,Shipped,6,FREESHIP,Google,893.01,0.0,0.0,893.01,0.0
+21-11-2023,Desk,4,509.38,Credit Card,Shipped,6,SAVE10,Google,2037.52,203.752,0.0,0.0,0.0
+21-11-2023,Phone,4,160.07,Online,Pending,5,SAVE10,Email,640.28,64.02799999999999,0.0,0.0,0.0
+21-12-2023,Tablet,1,298.06,Debit Card,Pending,3,WINTER15,Google,298.06,0.0,44.708999999999996,0.0,0.0
+22-01-2023,Printer,2,278.88,Debit Card,Pending,3,FREESHIP,Referral,557.76,0.0,0.0,557.76,0.0
+22-01-2023,Printer,5,314.27,Cash,Returned,6,SAVE10,Instagram,1571.35,157.135,0.0,0.0,0.0
+22-01-2023,Tablet,4,185.41,Online,Returned,9,WINTER15,Google,741.64,0.0,111.24600000000001,0.0,0.0
+22-01-2024,Desk,2,139.69,Online,Returned,7,FREESHIP,Email,279.38,0.0,0.0,279.38,0.0
+22-01-2025,Desk,3,501.3,Online,Cancelled,3,WINTER15,Facebook,1503.9,0.0,225.585,0.0,0.0
+22-02-2023,Desk,2,493.88,Credit Card,Returned,7,SAVE10,Instagram,987.76,98.77600000000001,0.0,0.0,0.0
+22-02-2024,Desk,1,157.72,Debit Card,Delivered,2,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+22-02-2024,Printer,1,472.74,Online,Shipped,6,WINTER15,Google,472.74,0.0,70.911,0.0,0.0
+22-02-2025,Phone,1,474.6,Debit Card,Delivered,4,SAVE10,Email,474.6,47.46,0.0,0.0,427.14000000000004
+22-03-2023,Desk,1,92.79,Cash,Pending,3,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+22-03-2025,Printer,5,268.43,Cash,Returned,5,SAVE10,Email,1342.15,134.215,0.0,0.0,0.0
+22-03-2025,Desk,5,250.68,Cash,Shipped,8,SAVE10,Instagram,1253.4,125.34,0.0,0.0,0.0
+22-03-2025,Monitor,2,426.7,Online,Pending,5,SAVE10,Referral,853.4,85.34,0.0,0.0,0.0
+22-04-2024,Tablet,2,26.5,Online,Delivered,3,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+22-04-2024,Chair,3,619.21,Debit Card,Cancelled,6,FREESHIP,Email,1857.63,0.0,0.0,1857.63,0.0
+22-04-2025,Printer,4,637.79,Gift Card,Cancelled,9,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+22-06-2025,Chair,3,32.62,Debit Card,Delivered,6,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,148.51080000000002
+22-06-2025,Printer,1,38.49,Credit Card,Delivered,4,FREESHIP,Referral,165.012,0.0,0.0,165.012,0.0
+22-07-2024,Laptop,5,21.54,Gift Card,Returned,10,WINTER15,Google,165.012,0.0,24.7518,0.0,0.0
+22-07-2024,Monitor,1,260.26,Online,Pending,5,WINTER15,Instagram,260.26,0.0,39.038999999999994,0.0,0.0
+22-07-2024,Chair,5,467.81,Online,Cancelled,10,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+22-07-2024,Phone,5,190.11,Cash,Delivered,7,SAVE10,Google,950.55,95.055,0.0,0.0,855.4949999999999
+22-07-2024,Printer,2,306.24,Online,Returned,4,FREESHIP,Email,612.48,0.0,0.0,612.48,0.0
+22-08-2023,Desk,2,43.15,Debit Card,Pending,3,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+22-08-2023,Laptop,4,540.41,Credit Card,Cancelled,6,WINTER15,Referral,2161.64,0.0,324.246,0.0,0.0
+22-08-2024,Chair,4,262.52,Debit Card,Cancelled,4,WINTER15,Instagram,1050.08,0.0,157.512,0.0,0.0
+22-09-2024,Printer,4,34.84,Credit Card,Shipped,8,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+22-09-2024,Desk,1,265.64,Credit Card,Returned,3,WINTER15,Instagram,265.64,0.0,39.846,0.0,0.0
+22-10-2023,Phone,5,476.01,Credit Card,Delivered,7,WINTER15,Google,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+22-10-2023,Printer,5,327.68,Credit Card,Returned,6,WINTER15,Facebook,1638.4,0.0,245.76,0.0,0.0
+22-10-2024,Chair,3,443.44,Gift Card,Shipped,3,FREESHIP,Google,1330.32,0.0,0.0,1330.32,0.0
+22-12-2023,Printer,1,572.13,Debit Card,Cancelled,4,SAVE10,Google,572.13,57.213,0.0,0.0,0.0
+22-12-2024,Monitor,5,375.25,Gift Card,Pending,9,SAVE10,Email,1876.25,187.625,0.0,0.0,0.0
+22-12-2024,Tablet,4,589.44,Gift Card,Returned,5,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+23-01-2023,Chair,1,408.13,Gift Card,Shipped,3,WINTER15,Instagram,408.13,0.0,61.2195,0.0,0.0
+23-01-2023,Desk,5,196.84,Credit Card,Delivered,5,WINTER15,Instagram,984.2,0.0,147.63,0.0,836.57
+23-01-2023,Monitor,5,224.0,Cash,Returned,9,SAVE10,Google,1120.0,112.0,0.0,0.0,0.0
+23-01-2024,Printer,1,422.54,Cash,Delivered,1,SAVE10,Google,422.54,42.254000000000005,0.0,0.0,380.286
+23-01-2024,Printer,4,224.61,Credit Card,Returned,6,WINTER15,Facebook,898.44,0.0,134.766,0.0,0.0
+23-01-2025,Phone,1,625.0,Online,Returned,5,WINTER15,Google,625.0,0.0,93.75,0.0,0.0
+23-01-2025,Monitor,5,332.64,Gift Card,Delivered,10,WINTER15,Referral,1663.2,0.0,249.48,0.0,1413.72
+23-02-2024,Tablet,5,639.37,Debit Card,Pending,6,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+23-02-2024,Desk,4,466.7,Debit Card,Returned,8,SAVE10,Instagram,1866.8,186.68,0.0,0.0,0.0
+23-03-2023,Laptop,4,246.11,Credit Card,Pending,4,SAVE10,Instagram,984.44,98.44400000000002,0.0,0.0,0.0
+23-03-2024,Chair,4,413.74,Gift Card,Returned,7,FREESHIP,Instagram,1654.96,0.0,0.0,1654.96,0.0
+23-03-2024,Phone,1,487.21,Cash,Delivered,3,SAVE10,Referral,487.21,48.721,0.0,0.0,438.489
+23-03-2025,Tablet,3,247.47,Online,Delivered,4,SAVE10,Facebook,742.41,74.241,0.0,0.0,668.169
+23-03-2025,Laptop,4,693.07,Online,Shipped,8,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+23-04-2023,Laptop,4,484.85,Debit Card,Delivered,5,WINTER15,Referral,1939.4,0.0,290.91,0.0,1648.49
+23-04-2023,Laptop,5,521.25,Cash,Cancelled,8,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+23-04-2024,Phone,3,204.27,Online,Returned,4,SAVE10,Google,612.81,61.28099999999999,0.0,0.0,0.0
+23-04-2024,Phone,1,406.22,Credit Card,Cancelled,5,SAVE10,Referral,406.22,40.622,0.0,0.0,0.0
+23-04-2024,Phone,2,441.54,Online,Delivered,2,SAVE10,Email,883.08,88.308,0.0,0.0,794.772
+23-04-2025,Printer,2,323.37,Online,Pending,3,SAVE10,Instagram,646.74,64.67399999999999,0.0,0.0,0.0
+23-05-2023,Tablet,3,575.01,Online,Cancelled,8,WINTER15,Instagram,1725.03,0.0,258.7545,0.0,0.0
+23-06-2023,Chair,4,540.34,Gift Card,Shipped,6,WINTER15,Referral,2161.36,0.0,324.204,0.0,0.0
+23-06-2023,Monitor,5,248.84,Debit Card,Cancelled,10,SAVE10,Instagram,1244.2,124.42,0.0,0.0,0.0
+23-06-2024,Monitor,3,92.22,Credit Card,Delivered,5,FREESHIP,Email,276.66,0.0,0.0,276.66,0.0
+23-06-2025,Laptop,2,199.7,Cash,Pending,4,FREESHIP,Email,399.4,0.0,0.0,399.4,0.0
+23-06-2025,Laptop,2,422.34,Credit Card,Cancelled,4,FREESHIP,Instagram,844.68,0.0,0.0,844.68,0.0
+23-07-2023,Printer,1,75.78,Cash,Pending,5,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+23-07-2023,Monitor,3,509.42,Credit Card,Cancelled,5,FREESHIP,Google,1528.26,0.0,0.0,1528.26,0.0
+23-07-2024,Laptop,2,266.95,Credit Card,Pending,3,SAVE10,Instagram,533.9,53.39,0.0,0.0,0.0
+23-08-2023,Chair,5,85.52,Gift Card,Cancelled,5,FREESHIP,Facebook,427.6,0.0,0.0,427.6,0.0
+23-08-2023,Chair,5,45.31,Online,Cancelled,8,FREESHIP,Referral,226.55,0.0,0.0,226.55,0.0
+23-08-2023,Phone,2,333.83,Gift Card,Cancelled,4,FREESHIP,Referral,667.66,0.0,0.0,667.66,0.0
+23-08-2024,Phone,4,695.1,Debit Card,Returned,8,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+23-08-2024,Phone,2,151.35,Online,Shipped,3,SAVE10,Referral,302.7,30.27,0.0,0.0,0.0
+23-09-2023,Printer,4,91.46,Cash,Cancelled,9,SAVE10,Referral,365.84,36.583999999999996,0.0,0.0,0.0
+23-09-2024,Tablet,1,167.15,Gift Card,Shipped,5,WINTER15,Email,167.15,0.0,25.0725,0.0,0.0
+23-09-2024,Laptop,5,233.67,Cash,Shipped,10,WINTER15,Referral,1168.35,0.0,175.2525,0.0,0.0
+23-10-2023,Phone,2,245.86,Credit Card,Shipped,4,SAVE10,Instagram,491.72,49.172000000000004,0.0,0.0,0.0
+23-10-2023,Monitor,4,274.82,Debit Card,Delivered,9,WINTER15,Email,1099.28,0.0,164.892,0.0,934.3879999999999
+23-10-2023,Phone,3,315.27,Credit Card,Cancelled,4,SAVE10,Email,945.81,94.58099999999999,0.0,0.0,0.0
+23-11-2023,Laptop,1,442.39,Gift Card,Pending,6,FREESHIP,Facebook,442.39,0.0,0.0,442.39,0.0
+23-11-2024,Tablet,1,214.08,Gift Card,Returned,2,WINTER15,Google,214.08,0.0,32.112,0.0,0.0
+23-11-2024,Printer,5,101.3,Online,Shipped,7,FREESHIP,Email,506.5,0.0,0.0,506.5,0.0
+23-12-2023,Monitor,2,642.98,Debit Card,Returned,7,FREESHIP,Email,1285.96,0.0,0.0,1285.96,0.0
+23-12-2023,Tablet,2,513.42,Online,Pending,5,WINTER15,Instagram,1026.84,0.0,154.02599999999998,0.0,0.0
+23-12-2024,Chair,1,525.43,Cash,Cancelled,2,SAVE10,Instagram,525.43,52.54299999999999,0.0,0.0,0.0
+24-01-2023,Tablet,2,599.86,Gift Card,Pending,7,FREESHIP,Facebook,1199.72,0.0,0.0,1199.72,0.0
+24-01-2023,Printer,2,533.81,Credit Card,Pending,3,FREESHIP,Email,1067.62,0.0,0.0,1067.62,0.0
+24-01-2024,Chair,5,384.69,Credit Card,Pending,6,FREESHIP,Email,1923.45,0.0,0.0,1923.45,0.0
+24-01-2025,Desk,4,217.13,Cash,Delivered,8,WINTER15,Email,868.52,0.0,130.278,0.0,738.242
+24-02-2024,Printer,3,132.48,Online,Shipped,4,SAVE10,Referral,397.44,39.744,0.0,0.0,0.0
+24-02-2025,Desk,3,661.89,Online,Cancelled,6,WINTER15,Referral,1985.67,0.0,297.8505,0.0,0.0
+24-02-2025,Tablet,3,450.98,Credit Card,Shipped,8,SAVE10,Referral,1352.94,135.294,0.0,0.0,0.0
+24-03-2023,Printer,4,117.51,Debit Card,Returned,7,SAVE10,Referral,470.04,47.004000000000005,0.0,0.0,0.0
+24-03-2024,Phone,3,664.46,Online,Delivered,4,FREESHIP,Google,1993.38,0.0,0.0,1993.38,0.0
+24-03-2024,Desk,4,122.2,Cash,Delivered,7,FREESHIP,Facebook,488.8,0.0,0.0,488.8,0.0
+24-04-2023,Laptop,4,276.32,Online,Delivered,5,WINTER15,Google,1105.28,0.0,165.792,0.0,939.4879999999999
+24-04-2024,Phone,2,241.49,Debit Card,Returned,7,FREESHIP,Instagram,482.98,0.0,0.0,482.98,0.0
+24-04-2025,Desk,3,339.39,Cash,Returned,7,FREESHIP,Google,1018.17,0.0,0.0,1018.17,0.0
+24-05-2024,Phone,1,583.18,Credit Card,Returned,5,WINTER15,Google,583.18,0.0,87.47699999999999,0.0,0.0
+24-05-2024,Laptop,5,113.87,Credit Card,Pending,6,SAVE10,Email,569.35,56.935,0.0,0.0,0.0
+24-05-2024,Phone,3,490.74,Cash,Shipped,3,WINTER15,Email,1472.22,0.0,220.833,0.0,0.0
+24-05-2024,Phone,3,251.48,Credit Card,Returned,4,WINTER15,Email,754.44,0.0,113.166,0.0,0.0
+24-05-2025,Printer,5,66.31,Gift Card,Pending,7,FREESHIP,Referral,331.55,0.0,0.0,331.55,0.0
+24-06-2023,Phone,5,90.87,Cash,Pending,5,WINTER15,Instagram,454.35,0.0,68.1525,0.0,0.0
+24-06-2024,Printer,2,552.83,Credit Card,Cancelled,3,FREESHIP,Referral,1105.66,0.0,0.0,1105.66,0.0
+24-06-2025,Phone,2,255.14,Cash,Shipped,2,FREESHIP,Google,510.28,0.0,0.0,510.28,0.0
+24-06-2025,Printer,3,344.4,Online,Cancelled,3,FREESHIP,Facebook,1033.2,0.0,0.0,1033.2,0.0
+24-06-2025,Laptop,5,368.25,Online,Delivered,5,FREESHIP,Instagram,1841.25,0.0,0.0,1841.25,0.0
+24-06-2025,Monitor,5,466.42,Gift Card,Returned,5,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+24-06-2025,Tablet,1,641.39,Online,Cancelled,1,FREESHIP,Referral,641.39,0.0,0.0,641.39,0.0
+24-07-2023,Desk,3,308.01,Cash,Pending,3,FREESHIP,Facebook,924.03,0.0,0.0,924.03,0.0
+24-07-2023,Tablet,1,438.93,Gift Card,Cancelled,3,SAVE10,Referral,438.93,43.893,0.0,0.0,0.0
+24-07-2024,Monitor,3,68.12,Online,Cancelled,3,FREESHIP,Email,204.36,0.0,0.0,204.36,0.0
+24-07-2024,Desk,1,334.39,Credit Card,Returned,2,WINTER15,Instagram,334.39,0.0,50.1585,0.0,0.0
+24-07-2024,Monitor,1,399.98,Debit Card,Delivered,3,WINTER15,Email,399.98,0.0,59.99700000000001,0.0,339.983
+24-07-2024,Laptop,5,543.16,Online,Cancelled,6,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+24-07-2024,Chair,4,404.58,Cash,Shipped,5,FREESHIP,Instagram,1618.32,0.0,0.0,1618.32,0.0
+24-08-2023,Monitor,5,201.22,Debit Card,Pending,6,FREESHIP,Facebook,1006.1,0.0,0.0,1006.1,0.0
+24-08-2023,Chair,3,197.97,Online,Cancelled,5,FREESHIP,Google,593.91,0.0,0.0,593.91,0.0
+24-08-2024,Phone,3,311.33,Cash,Cancelled,3,WINTER15,Instagram,933.99,0.0,140.0985,0.0,0.0
+24-09-2023,Tablet,1,672.89,Credit Card,Pending,1,WINTER15,Email,672.89,0.0,100.93350000000001,0.0,0.0
+24-09-2023,Tablet,3,668.33,Gift Card,Pending,4,WINTER15,Facebook,2004.99,0.0,300.7485,0.0,0.0
+24-09-2024,Laptop,3,428.88,Debit Card,Shipped,3,WINTER15,Facebook,1286.64,0.0,192.996,0.0,0.0
+24-10-2023,Laptop,5,55.41,Online,Cancelled,5,WINTER15,Google,277.05,0.0,41.5575,0.0,0.0
+24-10-2024,Desk,3,568.05,Gift Card,Pending,6,SAVE10,Google,1704.15,170.415,0.0,0.0,0.0
+24-10-2024,Printer,3,185.4,Gift Card,Cancelled,7,FREESHIP,Facebook,556.2,0.0,0.0,556.2,0.0
+24-10-2024,Printer,3,112.29,Gift Card,Shipped,6,FREESHIP,Google,336.87,0.0,0.0,336.87,0.0
+24-11-2023,Phone,3,692.71,Credit Card,Delivered,3,FREESHIP,Instagram,2078.13,0.0,0.0,2078.13,0.0
+24-11-2023,Chair,4,655.18,Online,Shipped,5,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+24-11-2023,Phone,5,628.74,Cash,Cancelled,9,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+24-11-2024,Laptop,3,539.91,Credit Card,Delivered,8,FREESHIP,Email,1619.73,0.0,0.0,1619.73,0.0
+24-11-2024,Chair,3,553.57,Credit Card,Returned,4,FREESHIP,Facebook,1660.71,0.0,0.0,1660.71,0.0
+24-11-2024,Chair,3,163.13,Gift Card,Shipped,5,WINTER15,Facebook,489.39,0.0,73.40849999999999,0.0,0.0
+24-11-2024,Laptop,3,239.08,Cash,Shipped,8,WINTER15,Google,717.24,0.0,107.586,0.0,0.0
+24-11-2024,Monitor,4,296.28,Gift Card,Shipped,5,SAVE10,Email,1185.12,118.51199999999999,0.0,0.0,0.0
+24-11-2024,Laptop,1,684.65,Credit Card,Delivered,1,FREESHIP,Email,684.65,0.0,0.0,684.65,0.0
+24-12-2023,Printer,1,483.38,Cash,Pending,6,FREESHIP,Google,483.38,0.0,0.0,483.38,0.0
+24-12-2023,Tablet,4,87.79,Cash,Cancelled,6,FREESHIP,Instagram,351.16,0.0,0.0,351.16,0.0
+24-12-2024,Monitor,1,370.85,Gift Card,Delivered,2,FREESHIP,Referral,370.85,0.0,0.0,370.85,0.0
+25-01-2023,Chair,5,421.42,Debit Card,Cancelled,7,FREESHIP,Instagram,2107.1,0.0,0.0,2107.1,0.0
+25-01-2023,Printer,5,107.48,Debit Card,Cancelled,9,FREESHIP,Email,537.4,0.0,0.0,537.4,0.0
+25-01-2025,Phone,4,218.43,Credit Card,Cancelled,9,SAVE10,Email,873.72,87.37200000000001,0.0,0.0,0.0
+25-02-2023,Monitor,1,454.23,Gift Card,Returned,3,SAVE10,Facebook,454.23,45.423,0.0,0.0,0.0
+25-02-2023,Monitor,2,650.25,Gift Card,Returned,6,SAVE10,Instagram,1300.5,130.05,0.0,0.0,0.0
+25-02-2024,Chair,3,84.31,Credit Card,Shipped,3,SAVE10,Email,252.93,25.293000000000003,0.0,0.0,0.0
+25-02-2024,Printer,3,690.3,Credit Card,Shipped,6,WINTER15,Google,2070.9,0.0,310.635,0.0,0.0
+25-02-2024,Phone,1,528.06,Credit Card,Shipped,2,SAVE10,Facebook,528.06,52.806,0.0,0.0,0.0
+25-02-2025,Monitor,4,629.88,Debit Card,Cancelled,8,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+25-02-2025,Printer,5,455.33,Credit Card,Cancelled,8,FREESHIP,Google,2276.65,0.0,0.0,2276.65,0.0
+25-02-2025,Chair,2,14.93,Online,Shipped,4,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+25-03-2023,Phone,4,434.85,Credit Card,Pending,4,WINTER15,Google,1739.4,0.0,260.91,0.0,0.0
+25-04-2024,Printer,2,259.32,Gift Card,Delivered,2,WINTER15,Referral,518.64,0.0,77.79599999999999,0.0,440.844
+25-04-2024,Laptop,5,658.77,Gift Card,Pending,10,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+25-04-2025,Phone,3,127.41,Gift Card,Delivered,7,SAVE10,Referral,382.23,38.223,0.0,0.0,344.007
+25-05-2023,Monitor,5,240.61,Credit Card,Shipped,10,FREESHIP,Email,1203.05,0.0,0.0,1203.05,0.0
+25-05-2023,Tablet,2,639.88,Cash,Delivered,5,WINTER15,Instagram,1279.76,0.0,191.96400000000003,0.0,1087.796
+25-05-2025,Desk,4,615.83,Online,Returned,4,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+25-06-2024,Phone,1,355.15,Cash,Returned,2,SAVE10,Email,355.15,35.515,0.0,0.0,0.0
+25-06-2024,Printer,4,107.49,Cash,Delivered,5,FREESHIP,Google,429.96,0.0,0.0,429.96,0.0
+25-06-2025,Printer,3,130.61,Debit Card,Cancelled,4,FREESHIP,Facebook,391.83,0.0,0.0,391.83,0.0
+25-07-2023,Monitor,2,43.67,Cash,Returned,4,WINTER15,Instagram,165.012,0.0,24.7518,0.0,0.0
+25-07-2023,Phone,1,359.99,Gift Card,Cancelled,5,SAVE10,Email,359.99,35.999,0.0,0.0,0.0
+25-07-2024,Tablet,1,524.06,Debit Card,Pending,3,FREESHIP,Email,524.06,0.0,0.0,524.06,0.0
+25-07-2024,Tablet,4,314.76,Online,Shipped,8,FREESHIP,Instagram,1259.04,0.0,0.0,1259.04,0.0
+25-07-2024,Chair,2,695.29,Credit Card,Pending,6,FREESHIP,Instagram,1390.58,0.0,0.0,1390.58,0.0
+25-08-2024,Chair,2,680.85,Gift Card,Delivered,6,FREESHIP,Referral,1361.7,0.0,0.0,1361.7,0.0
+25-09-2024,Laptop,2,92.91,Cash,Returned,3,WINTER15,Instagram,185.82,0.0,27.872999999999998,0.0,0.0
+25-10-2023,Phone,1,153.0,Credit Card,Returned,4,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+25-10-2023,Laptop,5,606.52,Debit Card,Shipped,6,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+25-10-2023,Phone,1,460.13,Credit Card,Returned,1,SAVE10,Google,460.13,46.013000000000005,0.0,0.0,0.0
+25-10-2024,Laptop,4,583.02,Online,Delivered,4,FREESHIP,Facebook,2332.08,0.0,0.0,2332.08,0.0
+25-11-2023,Laptop,4,126.89,Cash,Pending,9,FREESHIP,Instagram,507.56,0.0,0.0,507.56,0.0
+25-11-2023,Printer,1,381.02,Cash,Shipped,6,FREESHIP,Google,381.02,0.0,0.0,381.02,0.0
+25-11-2023,Tablet,4,663.67,Credit Card,Pending,7,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+25-11-2024,Desk,2,211.82,Gift Card,Cancelled,4,WINTER15,Email,423.64,0.0,63.54599999999999,0.0,0.0
+25-12-2024,Chair,4,283.16,Credit Card,Shipped,6,FREESHIP,Google,1132.64,0.0,0.0,1132.64,0.0
+26-01-2023,Monitor,2,394.16,Online,Shipped,2,FREESHIP,Referral,788.32,0.0,0.0,788.32,0.0
+26-01-2024,Phone,2,255.26,Credit Card,Cancelled,6,FREESHIP,Google,510.52,0.0,0.0,510.52,0.0
+26-01-2024,Printer,2,349.4,Online,Shipped,2,SAVE10,Instagram,698.8,69.88,0.0,0.0,0.0
+26-01-2025,Monitor,4,451.97,Online,Cancelled,7,WINTER15,Email,1807.88,0.0,271.182,0.0,0.0
+26-01-2025,Laptop,1,150.17,Debit Card,Returned,1,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+26-02-2023,Monitor,1,392.61,Gift Card,Cancelled,4,SAVE10,Referral,392.61,39.261,0.0,0.0,0.0
+26-02-2023,Printer,1,527.57,Debit Card,Pending,3,FREESHIP,Facebook,527.57,0.0,0.0,527.57,0.0
+26-02-2024,Printer,5,513.49,Gift Card,Cancelled,8,FREESHIP,Google,2332.082,0.0,0.0,2332.082,0.0
+26-02-2024,Tablet,2,103.41,Online,Shipped,2,FREESHIP,Referral,206.82,0.0,0.0,206.82,0.0
+26-02-2025,Chair,1,628.89,Credit Card,Returned,2,SAVE10,Referral,628.89,62.888999999999996,0.0,0.0,0.0
+26-03-2023,Printer,5,558.63,Cash,Pending,8,FREESHIP,Referral,2332.082,0.0,0.0,2332.082,0.0
+26-03-2023,Laptop,2,72.39,Online,Delivered,7,WINTER15,Instagram,165.012,0.0,24.7518,0.0,140.2602
+26-03-2023,Tablet,3,624.84,Credit Card,Cancelled,8,WINTER15,Facebook,1874.52,0.0,281.178,0.0,0.0
+26-03-2024,Desk,1,679.65,Debit Card,Shipped,6,FREESHIP,Google,679.65,0.0,0.0,679.65,0.0
+26-03-2024,Phone,1,639.83,Debit Card,Pending,2,SAVE10,Referral,639.83,63.983000000000004,0.0,0.0,0.0
+26-03-2024,Chair,4,224.75,Online,Delivered,7,WINTER15,Facebook,899.0,0.0,134.85,0.0,764.15
+26-03-2025,Desk,1,431.44,Gift Card,Pending,3,SAVE10,Facebook,431.44,43.144,0.0,0.0,0.0
+26-03-2025,Desk,5,271.69,Online,Returned,7,FREESHIP,Instagram,1358.45,0.0,0.0,1358.45,0.0
+26-04-2024,Desk,5,495.35,Credit Card,Pending,5,WINTER15,Facebook,2332.082,0.0,349.81229999999994,0.0,0.0
+26-04-2025,Laptop,4,300.56,Cash,Cancelled,9,FREESHIP,Facebook,1202.24,0.0,0.0,1202.24,0.0
+26-05-2023,Desk,1,629.21,Gift Card,Pending,2,FREESHIP,Instagram,629.21,0.0,0.0,629.21,0.0
+26-05-2023,Laptop,5,662.78,Debit Card,Shipped,9,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+26-05-2023,Printer,1,72.31,Gift Card,Cancelled,1,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+26-05-2024,Printer,4,142.58,Cash,Delivered,4,FREESHIP,Facebook,570.32,0.0,0.0,570.32,0.0
+26-05-2025,Printer,1,438.34,Gift Card,Returned,5,FREESHIP,Facebook,438.34,0.0,0.0,438.34,0.0
+26-06-2023,Desk,5,62.81,Credit Card,Shipped,9,SAVE10,Facebook,314.05,31.405,0.0,0.0,0.0
+26-06-2024,Monitor,4,550.14,Debit Card,Pending,4,FREESHIP,Instagram,2200.56,0.0,0.0,2200.56,0.0
+26-07-2023,Chair,4,160.49,Credit Card,Shipped,8,WINTER15,Referral,641.96,0.0,96.29400000000001,0.0,0.0
+26-07-2024,Printer,3,653.63,Online,Delivered,7,FREESHIP,Email,1960.89,0.0,0.0,1960.89,0.0
+26-07-2024,Desk,5,189.25,Debit Card,Cancelled,10,WINTER15,Email,946.25,0.0,141.9375,0.0,0.0
+26-08-2023,Monitor,2,80.77,Debit Card,Shipped,4,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+26-08-2023,Monitor,3,631.64,Credit Card,Returned,3,FREESHIP,Facebook,1894.92,0.0,0.0,1894.92,0.0
+26-08-2024,Laptop,1,438.37,Cash,Cancelled,4,SAVE10,Referral,438.37,43.836999999999996,0.0,0.0,0.0
+26-08-2024,Tablet,3,253.05,Online,Pending,3,FREESHIP,Instagram,759.15,0.0,0.0,759.15,0.0
+26-09-2023,Tablet,3,398.17,Debit Card,Delivered,5,SAVE10,Email,1194.51,119.45100000000001,0.0,0.0,1075.059
+26-10-2024,Phone,2,642.04,Gift Card,Delivered,4,WINTER15,Email,1284.08,0.0,192.61199999999997,0.0,1091.4679999999998
+26-11-2023,Chair,5,676.98,Cash,Cancelled,5,FREESHIP,Facebook,2332.082,0.0,0.0,2332.082,0.0
+26-11-2023,Phone,4,136.83,Debit Card,Pending,8,SAVE10,Email,547.32,54.732000000000006,0.0,0.0,0.0
+26-11-2024,Chair,4,262.58,Online,Cancelled,8,WINTER15,Email,1050.32,0.0,157.548,0.0,0.0
+26-11-2024,Printer,4,236.41,Debit Card,Pending,7,SAVE10,Google,945.64,94.564,0.0,0.0,0.0
+26-11-2024,Monitor,2,250.98,Credit Card,Delivered,5,WINTER15,Google,501.96,0.0,75.294,0.0,426.666
+26-12-2023,Monitor,3,263.19,Online,Delivered,5,FREESHIP,Instagram,789.57,0.0,0.0,789.57,0.0
+26-12-2024,Monitor,5,506.45,Gift Card,Shipped,7,WINTER15,Google,2332.082,0.0,349.81229999999994,0.0,0.0
+27-01-2025,Chair,3,449.13,Cash,Returned,5,WINTER15,Referral,1347.39,0.0,202.10850000000002,0.0,0.0
+27-01-2025,Monitor,5,498.48,Online,Pending,8,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+27-02-2023,Phone,1,424.4,Online,Shipped,6,WINTER15,Referral,424.4,0.0,63.66,0.0,0.0
+27-02-2023,Laptop,2,438.76,Debit Card,Returned,2,WINTER15,Facebook,877.52,0.0,131.628,0.0,0.0
+27-02-2024,Chair,2,587.49,Gift Card,Returned,6,SAVE10,Referral,1174.98,117.49799999999999,0.0,0.0,0.0
+27-02-2024,Tablet,5,550.68,Credit Card,Cancelled,8,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+27-02-2025,Printer,3,256.46,Credit Card,Delivered,4,SAVE10,Referral,769.38,76.938,0.0,0.0,692.442
+27-02-2025,Monitor,3,503.39,Online,Pending,5,SAVE10,Facebook,1510.17,151.017,0.0,0.0,0.0
+27-03-2023,Tablet,2,393.33,Debit Card,Pending,3,SAVE10,Instagram,786.66,78.666,0.0,0.0,0.0
+27-03-2023,Printer,5,670.75,Gift Card,Shipped,8,FREESHIP,Instagram,2332.082,0.0,0.0,2332.082,0.0
+27-03-2023,Tablet,3,404.62,Gift Card,Delivered,6,FREESHIP,Instagram,1213.86,0.0,0.0,1213.86,0.0
+27-03-2023,Printer,4,305.32,Online,Cancelled,4,SAVE10,Google,1221.28,122.12799999999999,0.0,0.0,0.0
+27-03-2024,Tablet,3,136.34,Debit Card,Returned,8,SAVE10,Referral,409.02,40.902,0.0,0.0,0.0
+27-03-2025,Chair,1,280.25,Online,Pending,5,WINTER15,Email,280.25,0.0,42.0375,0.0,0.0
+27-04-2023,Printer,1,127.55,Cash,Shipped,3,SAVE10,Referral,165.012,16.501199999999997,0.0,0.0,0.0
+27-04-2024,Laptop,1,44.35,Gift Card,Cancelled,1,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+27-04-2025,Monitor,3,638.5,Debit Card,Cancelled,4,FREESHIP,Instagram,1915.5,0.0,0.0,1915.5,0.0
+27-05-2023,Phone,5,623.81,Cash,Returned,6,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+27-05-2023,Printer,1,414.47,Debit Card,Returned,3,FREESHIP,Instagram,414.47,0.0,0.0,414.47,0.0
+27-05-2023,Chair,2,384.14,Online,Returned,2,WINTER15,Email,768.28,0.0,115.24199999999999,0.0,0.0
+27-05-2024,Tablet,5,420.98,Cash,Delivered,7,SAVE10,Facebook,2104.9,210.49,0.0,0.0,1894.41
+27-05-2024,Monitor,2,605.26,Cash,Cancelled,4,WINTER15,Referral,1210.52,0.0,181.578,0.0,0.0
+27-05-2024,Tablet,2,291.85,Cash,Shipped,5,FREESHIP,Instagram,583.7,0.0,0.0,583.7,0.0
+27-06-2023,Phone,3,589.56,Online,Returned,6,SAVE10,Facebook,1768.68,176.868,0.0,0.0,0.0
+27-06-2023,Monitor,4,206.84,Cash,Cancelled,5,WINTER15,Instagram,827.36,0.0,124.104,0.0,0.0
+27-06-2024,Printer,2,39.53,Credit Card,Shipped,3,WINTER15,Google,165.012,0.0,24.7518,0.0,0.0
+27-06-2024,Tablet,4,615.65,Debit Card,Delivered,9,WINTER15,Google,2332.082,0.0,349.81229999999994,0.0,1982.2696999999998
+27-06-2024,Phone,1,283.69,Gift Card,Shipped,6,WINTER15,Google,283.69,0.0,42.55350000000001,0.0,0.0
+27-06-2025,Desk,3,588.05,Gift Card,Delivered,8,FREESHIP,Instagram,1764.15,0.0,0.0,1764.15,0.0
+27-07-2023,Desk,4,654.79,Cash,Pending,9,WINTER15,Referral,2332.082,0.0,349.81229999999994,0.0,0.0
+27-07-2023,Desk,3,158.74,Online,Pending,7,FREESHIP,Instagram,476.22,0.0,0.0,476.22,0.0
+27-07-2023,Chair,3,65.86,Online,Pending,8,WINTER15,Google,197.58,0.0,29.637000000000004,0.0,0.0
+27-07-2024,Chair,3,148.72,Debit Card,Cancelled,7,SAVE10,Google,446.16,44.61600000000001,0.0,0.0,0.0
+27-08-2023,Monitor,3,463.39,Credit Card,Returned,3,WINTER15,Facebook,1390.17,0.0,208.52550000000002,0.0,0.0
+27-08-2023,Laptop,5,221.51,Cash,Returned,5,WINTER15,Referral,1107.55,0.0,166.1325,0.0,0.0
+27-08-2024,Printer,3,586.21,Gift Card,Pending,4,WINTER15,Referral,1758.63,0.0,263.7945,0.0,0.0
+27-09-2023,Laptop,1,204.08,Gift Card,Returned,4,SAVE10,Google,204.08,20.408,0.0,0.0,0.0
+27-09-2023,Desk,5,266.78,Gift Card,Cancelled,5,SAVE10,Email,1333.9,133.39,0.0,0.0,0.0
+27-09-2024,Desk,3,568.02,Online,Pending,3,FREESHIP,Instagram,1704.06,0.0,0.0,1704.06,0.0
+27-10-2023,Laptop,4,263.93,Debit Card,Shipped,4,FREESHIP,Facebook,1055.72,0.0,0.0,1055.72,0.0
+27-10-2023,Chair,4,498.51,Debit Card,Shipped,4,SAVE10,Google,1994.04,199.40400000000002,0.0,0.0,0.0
+27-10-2024,Tablet,2,238.25,Online,Cancelled,7,FREESHIP,Email,476.5,0.0,0.0,476.5,0.0
+27-10-2024,Monitor,5,650.72,Credit Card,Cancelled,8,WINTER15,Email,2332.082,0.0,349.81229999999994,0.0,0.0
+27-11-2023,Printer,3,222.34,Credit Card,Returned,5,WINTER15,Email,667.02,0.0,100.053,0.0,0.0
+27-11-2023,Laptop,3,444.75,Cash,Delivered,6,SAVE10,Facebook,1334.25,133.425,0.0,0.0,1200.825
+27-11-2023,Phone,5,374.99,Online,Shipped,9,SAVE10,Facebook,1874.95,187.495,0.0,0.0,0.0
+27-11-2024,Laptop,1,109.29,Debit Card,Cancelled,5,FREESHIP,Google,165.012,0.0,0.0,165.012,0.0
+27-12-2023,Monitor,3,193.49,Gift Card,Returned,6,FREESHIP,Facebook,580.47,0.0,0.0,580.47,0.0
+27-12-2023,Laptop,1,217.56,Debit Card,Delivered,3,FREESHIP,Facebook,217.56,0.0,0.0,217.56,0.0
+27-12-2024,Desk,2,362.14,Debit Card,Pending,2,SAVE10,Instagram,724.28,72.428,0.0,0.0,0.0
+28-01-2023,Laptop,3,438.89,Cash,Returned,3,SAVE10,Facebook,1316.67,131.667,0.0,0.0,0.0
+28-01-2023,Chair,4,649.47,Cash,Pending,8,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+28-01-2023,Laptop,1,654.27,Gift Card,Pending,2,SAVE10,Facebook,654.27,65.42699999999999,0.0,0.0,0.0
+28-01-2025,Phone,1,420.26,Credit Card,Pending,4,FREESHIP,Facebook,420.26,0.0,0.0,420.26,0.0
+28-02-2023,Phone,5,664.51,Debit Card,Pending,8,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+28-02-2023,Tablet,5,674.04,Online,Cancelled,7,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+28-02-2024,Phone,1,627.2,Online,Delivered,1,WINTER15,Email,627.2,0.0,94.08,0.0,533.12
+28-02-2024,Chair,3,432.85,Online,Pending,4,WINTER15,Instagram,1298.55,0.0,194.7825,0.0,0.0
+28-02-2025,Desk,1,77.64,Credit Card,Shipped,1,FREESHIP,Facebook,165.012,0.0,0.0,165.012,0.0
+28-02-2025,Tablet,3,424.89,Debit Card,Cancelled,6,FREESHIP,Google,1274.67,0.0,0.0,1274.67,0.0
+28-02-2025,Laptop,4,540.33,Cash,Shipped,6,SAVE10,Google,2161.32,216.132,0.0,0.0,0.0
+28-03-2023,Monitor,1,542.07,Cash,Shipped,6,WINTER15,Referral,542.07,0.0,81.3105,0.0,0.0
+28-03-2023,Tablet,4,450.75,Credit Card,Shipped,6,WINTER15,Email,1803.0,0.0,270.45,0.0,0.0
+28-03-2025,Tablet,1,68.39,Online,Returned,3,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+28-03-2025,Tablet,1,630.82,Online,Delivered,5,FREESHIP,Google,630.82,0.0,0.0,630.82,0.0
+28-03-2025,Tablet,1,562.61,Credit Card,Delivered,3,WINTER15,Facebook,562.61,0.0,84.3915,0.0,478.2185
+28-04-2023,Laptop,4,246.85,Credit Card,Shipped,8,WINTER15,Google,987.4,0.0,148.11,0.0,0.0
+28-04-2023,Tablet,1,93.02,Online,Returned,4,SAVE10,Email,165.012,16.501199999999997,0.0,0.0,0.0
+28-04-2023,Tablet,3,112.46,Gift Card,Shipped,6,SAVE10,Instagram,337.38,33.738,0.0,0.0,0.0
+28-04-2024,Monitor,4,473.86,Debit Card,Delivered,7,SAVE10,Facebook,1895.44,189.544,0.0,0.0,1705.896
+28-04-2024,Tablet,1,458.63,Debit Card,Returned,4,WINTER15,Referral,458.63,0.0,68.7945,0.0,0.0
+28-05-2023,Phone,3,50.34,Gift Card,Returned,3,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+28-05-2025,Phone,5,173.65,Gift Card,Delivered,9,SAVE10,Email,868.25,86.825,0.0,0.0,781.425
+28-06-2023,Printer,4,648.91,Credit Card,Shipped,6,SAVE10,Instagram,2332.082,233.2082,0.0,0.0,0.0
+28-06-2023,Desk,5,84.13,Online,Delivered,9,SAVE10,Google,420.65,42.065,0.0,0.0,378.585
+28-06-2024,Monitor,4,44.07,Debit Card,Pending,6,WINTER15,Email,176.28,0.0,26.441999999999997,0.0,0.0
+28-06-2025,Desk,2,299.23,Credit Card,Cancelled,2,WINTER15,Instagram,598.46,0.0,89.76900000000002,0.0,0.0
+28-06-2025,Tablet,4,430.83,Gift Card,Pending,8,WINTER15,Referral,1723.32,0.0,258.498,0.0,0.0
+28-06-2025,Phone,2,512.33,Cash,Cancelled,7,WINTER15,Facebook,1024.66,0.0,153.699,0.0,0.0
+28-06-2025,Phone,2,274.12,Cash,Delivered,6,FREESHIP,Referral,548.24,0.0,0.0,548.24,0.0
+28-07-2024,Printer,4,283.79,Online,Pending,8,SAVE10,Google,1135.16,113.516,0.0,0.0,0.0
+28-07-2024,Monitor,1,604.87,Online,Delivered,4,SAVE10,Instagram,604.87,60.486999999999995,0.0,0.0,544.383
+28-08-2023,Phone,4,518.4,Credit Card,Delivered,7,SAVE10,Facebook,2073.6,207.36,0.0,0.0,1866.2399999999998
+28-08-2023,Monitor,2,165.49,Online,Shipped,4,WINTER15,Instagram,330.98,0.0,49.647000000000006,0.0,0.0
+28-08-2024,Chair,5,261.33,Credit Card,Returned,5,SAVE10,Referral,1306.65,130.665,0.0,0.0,0.0
+28-09-2023,Monitor,1,427.06,Online,Cancelled,1,WINTER15,Referral,427.06,0.0,64.059,0.0,0.0
+28-09-2024,Phone,2,398.45,Debit Card,Cancelled,7,SAVE10,Google,796.9,79.69,0.0,0.0,0.0
+28-09-2024,Desk,4,160.22,Debit Card,Returned,9,WINTER15,Instagram,640.88,0.0,96.132,0.0,0.0
+28-12-2023,Desk,5,536.58,Gift Card,Pending,5,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+28-12-2023,Printer,2,73.41,Online,Shipped,2,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+28-12-2023,Printer,3,633.97,Cash,Pending,7,WINTER15,Facebook,1901.91,0.0,285.2865,0.0,0.0
+28-12-2024,Laptop,5,48.38,Gift Card,Delivered,9,WINTER15,Email,241.9,0.0,36.285,0.0,205.615
+29-01-2023,Monitor,2,49.62,Online,Pending,2,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+29-01-2023,Chair,2,608.04,Cash,Cancelled,4,SAVE10,Google,1216.08,121.60799999999999,0.0,0.0,0.0
+29-01-2024,Chair,3,367.75,Cash,Pending,7,FREESHIP,Facebook,1103.25,0.0,0.0,1103.25,0.0
+29-01-2024,Laptop,5,648.65,Online,Pending,7,SAVE10,Referral,2332.082,233.2082,0.0,0.0,0.0
+29-01-2025,Laptop,5,131.7,Cash,Shipped,8,FREESHIP,Google,658.5,0.0,0.0,658.5,0.0
+29-02-2024,Desk,2,46.5,Cash,Returned,7,WINTER15,Google,165.012,0.0,24.7518,0.0,0.0
+29-03-2024,Monitor,1,211.14,Credit Card,Cancelled,1,SAVE10,Facebook,211.14,21.113999999999997,0.0,0.0,0.0
+29-03-2025,Printer,2,600.57,Debit Card,Returned,3,WINTER15,Instagram,1201.14,0.0,180.17100000000002,0.0,0.0
+29-04-2024,Chair,5,85.22,Credit Card,Cancelled,7,FREESHIP,Email,426.1,0.0,0.0,426.1,0.0
+29-04-2025,Phone,3,579.55,Gift Card,Returned,8,WINTER15,Facebook,1738.65,0.0,260.7975,0.0,0.0
+29-05-2023,Tablet,3,502.77,Debit Card,Returned,8,WINTER15,Email,1508.31,0.0,226.24649999999997,0.0,0.0
+29-05-2024,Laptop,5,79.08,Cash,Pending,8,SAVE10,Facebook,395.4,39.54,0.0,0.0,0.0
+29-05-2024,Chair,4,15.01,Cash,Cancelled,6,SAVE10,Facebook,165.012,16.501199999999997,0.0,0.0,0.0
+29-05-2024,Monitor,3,301.55,Debit Card,Delivered,5,FREESHIP,Google,904.65,0.0,0.0,904.65,0.0
+29-06-2023,Tablet,1,56.2,Debit Card,Pending,1,WINTER15,Facebook,165.012,0.0,24.7518,0.0,0.0
+29-06-2023,Desk,3,361.39,Credit Card,Shipped,8,SAVE10,Referral,1084.17,108.417,0.0,0.0,0.0
+29-06-2024,Printer,5,659.85,Credit Card,Delivered,9,SAVE10,Facebook,2332.082,233.2082,0.0,0.0,2098.8738
+29-06-2024,Monitor,4,316.32,Debit Card,Delivered,7,SAVE10,Facebook,1265.28,126.52799999999999,0.0,0.0,1138.752
+29-07-2023,Chair,1,176.1,Credit Card,Pending,1,SAVE10,Instagram,176.1,17.61,0.0,0.0,0.0
+29-07-2024,Printer,4,410.21,Cash,Pending,5,WINTER15,Instagram,1640.84,0.0,246.12599999999998,0.0,0.0
+29-07-2024,Desk,4,325.76,Gift Card,Shipped,8,WINTER15,Email,1303.04,0.0,195.456,0.0,0.0
+29-08-2023,Monitor,3,481.1,Credit Card,Returned,3,FREESHIP,Facebook,1443.3,0.0,0.0,1443.3,0.0
+29-08-2023,Tablet,2,444.84,Online,Shipped,7,SAVE10,Facebook,889.68,88.96799999999999,0.0,0.0,0.0
+29-08-2023,Tablet,5,187.97,Cash,Returned,9,SAVE10,Google,939.85,93.985,0.0,0.0,0.0
+29-09-2023,Tablet,4,263.62,Cash,Shipped,5,SAVE10,Email,1054.48,105.448,0.0,0.0,0.0
+29-09-2023,Tablet,1,479.76,Credit Card,Pending,1,SAVE10,Email,479.76,47.976000000000006,0.0,0.0,0.0
+29-09-2024,Chair,5,95.75,Online,Shipped,8,SAVE10,Instagram,478.75,47.875,0.0,0.0,0.0
+29-09-2024,Chair,4,306.35,Gift Card,Shipped,7,WINTER15,Referral,1225.4,0.0,183.81,0.0,0.0
+29-10-2023,Laptop,4,228.91,Cash,Shipped,4,FREESHIP,Google,915.64,0.0,0.0,915.64,0.0
+29-11-2023,Printer,1,660.66,Debit Card,Delivered,3,WINTER15,Instagram,660.66,0.0,99.09899999999999,0.0,561.5609999999999
+29-11-2024,Phone,1,452.7,Debit Card,Shipped,5,FREESHIP,Instagram,452.7,0.0,0.0,452.7,0.0
+29-12-2023,Tablet,5,268.78,Debit Card,Delivered,7,WINTER15,Email,1343.9,0.0,201.585,0.0,1142.315
+29-12-2023,Laptop,1,18.2,Debit Card,Pending,4,SAVE10,Instagram,165.012,16.501199999999997,0.0,0.0,0.0
+29-12-2023,Tablet,5,625.97,Credit Card,Returned,9,WINTER15,Instagram,2332.082,0.0,349.81229999999994,0.0,0.0
+30-01-2024,Tablet,1,155.27,Debit Card,Shipped,6,FREESHIP,Email,165.012,0.0,0.0,165.012,0.0
+30-01-2025,Printer,4,263.09,Debit Card,Shipped,8,SAVE10,Google,1052.36,105.23599999999999,0.0,0.0,0.0
+30-03-2025,Monitor,2,49.08,Debit Card,Returned,7,FREESHIP,Instagram,165.012,0.0,0.0,165.012,0.0
+30-04-2023,Monitor,4,677.37,Cash,Pending,8,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+30-04-2025,Tablet,2,411.49,Credit Card,Returned,4,WINTER15,Instagram,822.98,0.0,123.447,0.0,0.0
+30-05-2025,Laptop,2,492.9,Cash,Returned,5,FREESHIP,Instagram,985.8,0.0,0.0,985.8,0.0
+30-06-2023,Chair,3,500.08,Debit Card,Returned,6,WINTER15,Facebook,1500.24,0.0,225.03599999999997,0.0,0.0
+30-06-2023,Chair,3,556.99,Online,Cancelled,4,FREESHIP,Facebook,1670.97,0.0,0.0,1670.97,0.0
+30-06-2024,Printer,4,567.57,Debit Card,Pending,9,WINTER15,Google,2270.28,0.0,340.54200000000003,0.0,0.0
+30-06-2025,Chair,5,75.81,Gift Card,Returned,10,WINTER15,Instagram,379.05,0.0,56.8575,0.0,0.0
+30-06-2025,Tablet,2,63.21,Online,Cancelled,4,SAVE10,Google,165.012,16.501199999999997,0.0,0.0,0.0
+30-07-2024,Phone,1,582.04,Gift Card,Delivered,1,FREESHIP,Email,582.04,0.0,0.0,582.04,0.0
+30-08-2023,Laptop,3,201.49,Credit Card,Returned,4,FREESHIP,Facebook,604.47,0.0,0.0,604.47,0.0
+30-08-2024,Desk,2,342.11,Gift Card,Shipped,2,WINTER15,Instagram,684.22,0.0,102.63300000000001,0.0,0.0
+30-08-2024,Desk,1,45.94,Cash,Cancelled,2,WINTER15,Email,165.012,0.0,24.7518,0.0,0.0
+30-09-2023,Chair,4,425.18,Online,Returned,8,WINTER15,Facebook,1700.72,0.0,255.108,0.0,0.0
+30-09-2024,Chair,5,492.94,Cash,Shipped,10,FREESHIP,Email,2332.082,0.0,0.0,2332.082,0.0
+30-09-2024,Monitor,1,576.35,Gift Card,Returned,1,WINTER15,Instagram,576.35,0.0,86.4525,0.0,0.0
+30-10-2023,Printer,5,666.8,Debit Card,Delivered,7,SAVE10,Referral,2332.082,233.2082,0.0,0.0,2098.8738
+30-10-2024,Laptop,2,230.95,Online,Delivered,3,WINTER15,Referral,461.9,0.0,69.285,0.0,392.615
+30-11-2023,Desk,1,410.78,Cash,Cancelled,1,FREESHIP,Instagram,410.78,0.0,0.0,410.78,0.0
+30-11-2023,Chair,1,465.33,Gift Card,Delivered,2,FREESHIP,Google,465.33,0.0,0.0,465.33,0.0
+30-11-2023,Desk,3,491.43,Gift Card,Shipped,6,WINTER15,Instagram,1474.29,0.0,221.1435,0.0,0.0
+30-11-2024,Laptop,3,699.93,Cash,Returned,7,SAVE10,Google,2099.79,209.979,0.0,0.0,0.0
+30-12-2023,Monitor,5,81.7,Credit Card,Delivered,6,WINTER15,Instagram,408.5,0.0,61.275,0.0,347.225
+30-12-2024,Tablet,1,388.33,Cash,Returned,2,SAVE10,Facebook,388.33,38.833,0.0,0.0,0.0
+31-01-2023,Printer,2,494.78,Online,Shipped,2,SAVE10,Google,989.56,98.95599999999999,0.0,0.0,0.0
+31-01-2023,Monitor,4,588.85,Gift Card,Pending,7,SAVE10,Email,2332.082,233.2082,0.0,0.0,0.0
+31-03-2023,Monitor,3,659.57,Credit Card,Cancelled,6,SAVE10,Email,1978.71,197.87099999999998,0.0,0.0,0.0
+31-03-2024,Laptop,4,184.48,Online,Cancelled,4,WINTER15,Google,737.92,0.0,110.68799999999999,0.0,0.0
+31-03-2024,Laptop,4,382.88,Cash,Cancelled,6,WINTER15,Email,1531.52,0.0,229.72799999999998,0.0,0.0
+31-03-2025,Phone,1,252.68,Online,Cancelled,1,FREESHIP,Referral,252.68,0.0,0.0,252.68,0.0
+31-05-2023,Tablet,1,553.56,Credit Card,Cancelled,5,WINTER15,Referral,553.56,0.0,83.03399999999999,0.0,0.0
+31-05-2023,Monitor,3,669.06,Cash,Delivered,7,SAVE10,Facebook,2007.18,200.718,0.0,0.0,1806.462
+31-05-2024,Phone,3,413.83,Gift Card,Shipped,8,SAVE10,Facebook,1241.49,124.149,0.0,0.0,0.0
+31-05-2024,Printer,3,308.98,Cash,Delivered,3,SAVE10,Instagram,926.94,92.69400000000002,0.0,0.0,834.2460000000001
+31-05-2024,Laptop,1,596.24,Credit Card,Returned,4,FREESHIP,Instagram,596.24,0.0,0.0,596.24,0.0
+31-05-2025,Chair,3,528.14,Online,Delivered,3,FREESHIP,Email,1584.42,0.0,0.0,1584.42,0.0
+31-05-2025,Printer,4,634.05,Cash,Shipped,6,SAVE10,Google,2332.082,233.2082,0.0,0.0,0.0
+31-05-2025,Printer,2,452.05,Credit Card,Returned,3,WINTER15,Email,904.1,0.0,135.615,0.0,0.0
+31-07-2023,Chair,3,324.47,Cash,Delivered,4,WINTER15,Email,973.41,0.0,146.01149999999998,0.0,827.3985
+31-07-2023,Tablet,1,179.22,Online,Cancelled,6,FREESHIP,Instagram,179.22,0.0,0.0,179.22,0.0
+31-08-2023,Chair,5,173.96,Debit Card,Pending,8,WINTER15,Instagram,869.8,0.0,130.47,0.0,0.0
+31-08-2023,Tablet,3,136.84,Online,Pending,4,FREESHIP,Facebook,410.52,0.0,0.0,410.52,0.0
+31-08-2024,Monitor,4,327.12,Credit Card,Cancelled,4,WINTER15,Email,1308.48,0.0,196.27200000000002,0.0,0.0
+31-08-2024,Chair,3,46.11,Gift Card,Returned,5,WINTER15,Referral,165.012,0.0,24.7518,0.0,0.0
+31-08-2024,Printer,3,223.7,Cash,Returned,3,SAVE10,Email,671.1,67.11,0.0,0.0,0.0
+31-08-2024,Printer,5,404.39,Online,Shipped,10,WINTER15,Referral,2021.95,0.0,303.2925,0.0,0.0
+31-08-2024,Monitor,2,552.63,Debit Card,Delivered,7,WINTER15,Instagram,1105.26,0.0,165.78900000000002,0.0,939.471
+31-10-2023,Chair,2,488.9,Cash,Delivered,7,FREESHIP,Facebook,977.8,0.0,0.0,977.8,0.0
+31-10-2023,Chair,5,191.63,Gift Card,Delivered,6,FREESHIP,Facebook,958.15,0.0,0.0,958.15,0.0
+31-10-2023,Chair,4,298.36,Debit Card,Pending,8,FREESHIP,Google,1193.44,0.0,0.0,1193.44,0.0
+31-10-2023,Printer,1,299.35,Credit Card,Cancelled,5,WINTER15,Email,299.35,0.0,44.9025,0.0,0.0
